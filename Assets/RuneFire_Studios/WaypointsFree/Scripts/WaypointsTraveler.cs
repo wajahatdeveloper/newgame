@@ -43,6 +43,9 @@ namespace WaypointsFree
         [Tooltip("Movement function type")]
         public MoveType StartingMovementType = MoveType.LERP;
 
+        public int countToMove = 1;
+
+        int currentCount = 0;
 
         public bool IsMoving
         {
@@ -130,7 +133,15 @@ namespace WaypointsFree
         // Update is called once per frame
         void Update()
         {
-            if (isMoving == true && moveFunc != null)
+			if (currentCount >= countToMove)
+			{
+				isMoving = false;
+				countToMove = 1;
+				currentCount = 0;
+				return;
+			}
+
+			if (isMoving == true && moveFunc != null)
             {
                 bool arrivedAtDestination = false;
 
@@ -140,9 +151,11 @@ namespace WaypointsFree
                 if (arrivedAtDestination == true)
                 {
                     SetNextPosition();
+                    currentCount++;
+                    Debug.Log( currentCount );
                 }
             }
-        }
+		}
 
         /// <summary>
         /// Setup the list of positions to follow
