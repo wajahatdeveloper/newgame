@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 9045808718756285547}
   - component: {fileID: 9045808718756285526}
   - component: {fileID: 9045808718756285544}
-  - component: {fileID: 9045808718756285545}
   m_Layer: 0
   m_Name: Hero
   m_TagString: Untagged
@@ -46,7 +45,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spriteRenderer: {fileID: 9045808718756285544}
-  waypointsTraveler: {fileID: 9045808718756285545}
+  waypointsTraveler: {fileID: 0}
 --- !u!212 &9045808718756285544
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -86,7 +85,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: 606de71e237f7564d928fdb35a49f302, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -98,26 +97,3 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &9045808718756285545
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9045808718756285546}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4650cc3407a19a941a6c01a1ddbc876c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Waypoints: {fileID: 0}
-  XYZConstraint: 1
-  AutoStart: 0
-  MoveSpeed: 5
-  LookAtSpeed: 0
-  StartIndex: 0
-  AutoPositionAtStart: 0
-  StartTravelDirection: 0
-  EndReachedBehavior: 0
-  StartingMovementType: 0
-  countToMove: 1

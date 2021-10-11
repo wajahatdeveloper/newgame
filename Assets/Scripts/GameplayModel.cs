@@ -4,4 +4,13 @@ using UnityEngine;
 
 public class GameplayModel : MonoBehaviour
 {
+	public enum TileType
+	{
+		MonsterFight,
+		PlayerWin,
+		PlayerLose,
+		Minigame1,
+		Minigame2,
+		Minigame3,
+	}
 }

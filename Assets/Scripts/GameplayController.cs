@@ -30,9 +30,9 @@ public class GameplayController : MonoBehaviour
 		int diceResult = Random.Range( 1, 7 );
 		Debug.Log( "Dice result = " + diceResult );
 		_view.rollDiceButton.interactable = false;
-		_view.heroView.waypointsTraveler.countToMove = diceResult;
-		_view.heroView.waypointsTraveler.Move(true);
-		yield return new WaitWhile( ()=>_view.heroView.waypointsTraveler.IsMoving );
+		_view.diceResult.text = diceResult.ToString();
+		_view.heroView.Move( diceResult );
+		yield return new WaitWhile( ()=> _view.heroView.isMoving );
 		_view.rollDiceButton.GetComponent<Button>().interactable = true;
 	}
 }
