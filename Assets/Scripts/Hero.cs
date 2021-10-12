@@ -10,8 +10,8 @@ public class Hero : MonoBehaviour
 
 	[HideInInspector] public bool isMoving;
 
-	private int currentTileCount = 1;
-	private int targetTileCount = 1;
+	public int currentTileCount = 1;
+	public int targetTileCount = 1;
 
 	private GameplayView _view;
 	private GameplayModel _model;
