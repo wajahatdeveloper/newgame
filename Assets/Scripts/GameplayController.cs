@@ -21,37 +21,68 @@ public class GameplayController : MonoBehaviour
 		SeedBoardWithRandomData();
 	}
 
-	private void SeedBoardWithRandomData()
-	{
-		for (int i = 0; i < _view.board.tiles.Count; i++)
-		{
-			var randomTile = randomTiles.Random();
-			_view.board.tiles[i].CopyFrom( randomTile );
-			randomTiles.Remove( randomTile );
-		}
-	}
-
 	private void InitializeRandomBoardData()
 	{
-		for (int i = 0; i < 40; i++)
+		List<Tile> tmpTiles = new List<Tile>();
+		for (int i = 0; i < 38; i++)
 		{
-			randomTiles.Add( new Tile() { tileType = GameplayModel.TileType.MonsterFight } );
+			tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.MonsterFight } );
 		}
 		for (int i = 0; i < 8; i++)
 		{
-			randomTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame1 } );
+			tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame1 } );
 		}
 		for (int i = 0; i < 8; i++)
 		{
-			randomTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame2 } );
+			tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame2 } );
 		}
 		for (int i = 0; i < 8; i++)
 		{
-			randomTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame3 } );
+			tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame3 } );
 		}
-		randomTiles.Add( new Tile() { tileType = GameplayModel.TileType.PlayerLose } );
-		randomTiles.Add( new Tile() { tileType = GameplayModel.TileType.PlayerWin } );
-		randomTiles = randomTiles.Randomize().ToList();
+		tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.PlayerLose } );
+		tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.PlayerWin } );
+		randomTiles = tmpTiles.Randomize().ToList();
+		Debug.Log( "total tile count = " + randomTiles.Count );
+	}
+
+
+	private void SeedBoardWithRandomData()
+	{
+		int i = 0;
+		while (randomTiles.Count > 0)
+		{
+			var randomTile = randomTiles[0];
+			_view.board.tiles[i].CopyFrom( randomTile );
+			Sprite spr = null;
+			switch (randomTile.tileType)
+			{
+				case GameplayModel.TileType.MonsterFight:
+					spr = _view.tileIconMonsterFight;
+					break;
+				case GameplayModel.TileType.PlayerWin:
+					spr = _view.tileIconWin;
+					break;
+				case GameplayModel.TileType.PlayerLose:
+					spr = _view.tileIconLose;
+					break;
+				case GameplayModel.TileType.Minigame1:
+					spr = _view.tileIconMinigame1;
+					break;
+				case GameplayModel.TileType.Minigame2:
+					spr = _view.tileIconMinigame2;
+					break;
+				case GameplayModel.TileType.Minigame3:
+					spr = _view.tileIconMinigame3;
+					break;
+				default:
+					Debug.LogError( "Icon not found" );
+					break;
+			}
+			_view.board.tiles[i].transform.GetChild( 0 ).GetComponent<SpriteRenderer>().sprite = spr;
+			randomTiles.Remove( randomTile );
+			i++;
+		}
 	}
 
 	public void OnClick_RollDice()
@@ -111,20 +142,6 @@ public class GameplayController : MonoBehaviour
 
 public static class exts
 {
-	public static T Random<T>( this IEnumerable<T> enumerable )
-	{
-		if (enumerable == null)
-		{
-			throw new ArgumentNullException( nameof( enumerable ) );
-		}
-
-		// note: creating a Random instance each call may not be correct for you,
-		// consider a thread-safe static instance
-		var r = new System.Random();
-		var list = enumerable as IList<T> ?? enumerable.ToList();
-		return list.Count == 0 ? default( T ) : list[r.Next( 0, list.Count )];
-	}
-
 	public static IEnumerable<T> Randomize<T>( this IEnumerable<T> source )
 	{
 		System.Random rnd = new System.Random();

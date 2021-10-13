@@ -15,4 +15,10 @@ public class GameplayView : MonoBehaviour
 	public GameObject minigame1Panel;
 	public GameObject minigame2Panel;
 	public GameObject minigame3Panel;
+	public Sprite tileIconWin;
+	public Sprite tileIconLose;
+	public Sprite tileIconMonsterFight;
+	public Sprite tileIconMinigame1;
+	public Sprite tileIconMinigame2;
+	public Sprite tileIconMinigame3;
 }

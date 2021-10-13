@@ -10,8 +10,8 @@ public class Hero : MonoBehaviour
 
 	[HideInInspector] public bool isMoving;
 
-	public int currentTileCount = 1;
-	public int targetTileCount = 1;
+	public int currentTileCount = 0;
+	public int targetTileCount = 0;
 
 	private GameplayView _view;
 	private GameplayModel _model;
@@ -20,6 +20,12 @@ public class Hero : MonoBehaviour
 	{
 		_view = GameplayRoot.Instance.view;
 		_model = GameplayRoot.Instance.model;
+	}
+
+	private void OnEnable()
+	{
+		currentTileCount = 0;
+		targetTileCount = 0;
 	}
 
 	public void Move( int count )
@@ -31,8 +37,8 @@ public class Hero : MonoBehaviour
 	private void _MoveForward( int count )
 	{
 		targetTileCount = currentTileCount + count;
-		if (targetTileCount > 64) { targetTileCount = 64; }
-		var targetTile = _view.board.tiles[currentTileCount - 1];
+		if (targetTileCount >= 63) { targetTileCount = 63; }
+		var targetTile = _view.board.tiles[currentTileCount];
 		_MoveToTile( targetTile );
 	}
 
@@ -42,7 +48,7 @@ public class Hero : MonoBehaviour
 			if (currentTileCount < targetTileCount)
 			{
 				currentTileCount++;
-				var targetTile = _view.board.tiles[currentTileCount - 1];
+				var targetTile = _view.board.tiles[currentTileCount];
 				_MoveToTile( targetTile );
 			}
 			else
