@@ -11,12 +11,14 @@ public class GameplayController : MonoBehaviour
 {
 	public GameplayView _view;
 	public GameplayModel _model;
+	public MonsterFight monsterFight;
 
 	private List<Tile> randomTiles = new List<Tile>();
 	private bool isWorking = false;
 
 	public void GameStart()
 	{
+		_model.heroHp = 100;
 		InitializeRandomBoardData();
 		SeedBoardWithRandomData();
 	}
@@ -111,7 +113,7 @@ public class GameplayController : MonoBehaviour
 		switch (tileData.tileType)
 		{
 			case GameplayModel.TileType.MonsterFight:
-				_view.monsterFightPanel.SetActive( true );
+				monsterFight.StartFight();
 				break;
 			case GameplayModel.TileType.PlayerWin:
 				_view.winPanel.SetActive( true );

@@ -13,4 +13,6 @@ public class GameplayModel : MonoBehaviour
 		Minigame2,
 		Minigame3,
 	}
+
+	public int heroHp = 100;
 }
