@@ -9838,7 +9838,7 @@ MonoBehaviour:
   minigame2Panel: {fileID: 326430292}
   minigame3Panel: {fileID: 604960194}
   monsterFightPanel: {fileID: 1286906101}
-  fightHitEffect: {fileID: 100002, guid: e05640b713279be4ea35ced053857820, type: 3}
+  fightHitEffect: {fileID: 2555712493147279508, guid: 3fac1cc275dd09041b02f8f74e941bc8, type: 3}
   fightIconImage: {fileID: 1220612412}
   heroIconImage: {fileID: 779103394}
   monsterIconImage: {fileID: 348855573}

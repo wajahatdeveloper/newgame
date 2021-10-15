@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class MonsterFight : MonoBehaviour
 {
+	private const float TurnTime = 1.0f;
 	public GameplayView _view;
 	public GameplayModel _model;
 
@@ -34,7 +35,7 @@ public class MonsterFight : MonoBehaviour
 		Debug.Log( "Monster Attacked : Damage = " + damage );
 		_model.heroHp -= damage;
 
-		Invoke( nameof( _HeroTurn ), 0.5f );
+		Invoke( nameof( _HeroTurn ), TurnTime );
 		_UpdateUI();
 	}
 
@@ -52,7 +53,7 @@ public class MonsterFight : MonoBehaviour
 		int damage = Random.Range( 15, 26 );
 		Debug.Log( "Attack 1 Clicked : Damage = " + damage );
 		monsterHp -= damage;
-		Invoke( nameof( _MonsterTurn ), 0.5f );
+		Invoke( nameof( _MonsterTurn ), TurnTime );
 		_UpdateUI();
 	}
 
@@ -62,7 +63,7 @@ public class MonsterFight : MonoBehaviour
 		int damage = Random.Range( 15, 26 );
 		Debug.Log( "Attack 2 Clicked : Damage = " + damage );
 		monsterHp -= damage;
-		Invoke( nameof( _MonsterTurn ), 0.5f );
+		Invoke( nameof( _MonsterTurn ), TurnTime );
 		_UpdateUI();
 	}
 
@@ -72,7 +73,7 @@ public class MonsterFight : MonoBehaviour
 		int damage = Random.Range( 15, 26 );
 		Debug.Log( "Attack 3 Clicked : Damage = " + damage );
 		monsterHp -= damage;
-		Invoke( nameof( _MonsterTurn ), 0.5f );
+		Invoke( nameof( _MonsterTurn ), TurnTime );
 		_UpdateUI();
 	}
 
@@ -82,7 +83,7 @@ public class MonsterFight : MonoBehaviour
 		int damage = Random.Range( 15, 26 );
 		Debug.Log( "Attack 4 Clicked : Damage = " + damage );
 		monsterHp -= damage;
-		Invoke( nameof( _MonsterTurn ), 0.5f );
+		Invoke( nameof( _MonsterTurn ), TurnTime );
 		_UpdateUI();
 	}
 }
