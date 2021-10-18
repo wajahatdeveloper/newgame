@@ -1120,7 +1120,7 @@ RectTransform:
   - {fileID: 1165280972}
   - {fileID: 2125469972}
   m_Father: {fileID: 1531329489}
-  m_RootOrder: 2
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1341,6 +1341,7 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1381557773}
+  - {fileID: 351884538}
   m_Father: {fileID: 1531329489}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1657,7 +1658,7 @@ RectTransform:
   - {fileID: 1312219276}
   - {fileID: 514560767}
   m_Father: {fileID: 1531329489}
-  m_RootOrder: 6
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -1872,6 +1873,85 @@ MonoBehaviour:
   m_EffectColor: {r: 0, g: 0, b: 0, a: 0.5}
   m_EffectDistance: {x: 1.33, y: -1}
   m_UseGraphicAlpha: 1
+--- !u!1 &351884537
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 351884538}
+  - component: {fileID: 351884540}
+  - component: {fileID: 351884539}
+  m_Layer: 0
+  m_Name: Text_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &351884538
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 351884537}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 257749818}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0, y: -33.53}
+  m_SizeDelta: {x: 0, y: -67.06}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &351884539
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 351884537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_FontData:
+    m_Font: {fileID: 12800000, guid: e8f4f604472cf5341a3d4c9e103f389c, type: 3}
+    m_FontSize: 14
+    m_FontStyle: 0
+    m_BestFit: 1
+    m_MinSize: 10
+    m_MaxSize: 30
+    m_Alignment: 4
+    m_AlignByGeometry: 0
+    m_RichText: 1
+    m_HorizontalOverflow: 0
+    m_VerticalOverflow: 0
+    m_LineSpacing: 1
+  m_Text: Dice Result
+--- !u!222 &351884540
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 351884537}
+  m_CullTransparentMesh: 1
 --- !u!1001 &368766671
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2946,7 +3026,7 @@ RectTransform:
   - {fileID: 939698878}
   - {fileID: 811651842}
   m_Father: {fileID: 1531329489}
-  m_RootOrder: 7
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -3724,7 +3804,7 @@ RectTransform:
   - {fileID: 2136066274}
   - {fileID: 824066809}
   m_Father: {fileID: 1531329489}
-  m_RootOrder: 3
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -5957,6 +6037,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   heroHp: 100
+  rollLimit: 10
+  rollCount: 0
 --- !u!1 &1220612410
 GameObject:
   m_ObjectHideFlags: 0
@@ -6137,7 +6219,7 @@ RectTransform:
   - {fileID: 1050445350}
   - {fileID: 682888067}
   m_Father: {fileID: 1531329489}
-  m_RootOrder: 4
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -6646,7 +6728,7 @@ GameObject:
   - component: {fileID: 1381557775}
   - component: {fileID: 1381557774}
   m_Layer: 0
-  m_Name: Text
+  m_Name: Text_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6668,8 +6750,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 20.794996}
+  m_SizeDelta: {x: 0, y: 41.590008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1381557774
 MonoBehaviour:
@@ -7344,12 +7426,12 @@ RectTransform:
   m_Children:
   - {fileID: 565160004}
   - {fileID: 257749818}
-  - {fileID: 189022211}
-  - {fileID: 790360581}
   - {fileID: 1286906102}
   - {fileID: 2014069268}
   - {fileID: 326430293}
   - {fileID: 604960195}
+  - {fileID: 189022211}
+  - {fileID: 790360581}
   m_Father: {fileID: 260194158}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9238,7 +9320,7 @@ RectTransform:
   - {fileID: 825293026}
   - {fileID: 1552025817}
   m_Father: {fileID: 1531329489}
-  m_RootOrder: 5
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -9829,9 +9911,11 @@ MonoBehaviour:
   rollDiceButton: {fileID: 565160005}
   heroView: {fileID: 1458015968}
   board: {fileID: 964843419}
-  diceResult: {fileID: 1381557774}
+  diceResult1: {fileID: 1381557774}
+  diceResult2: {fileID: 351884539}
   heroHpText: {fileID: 648615985}
   monsterHpText: {fileID: 1377228069}
+  fightTitle: {fileID: 157781647}
   losePanel: {fileID: 790360580}
   winPanel: {fileID: 189022210}
   minigame1Panel: {fileID: 2014069267}

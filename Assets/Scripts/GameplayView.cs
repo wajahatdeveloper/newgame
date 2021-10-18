@@ -8,9 +8,11 @@ public class GameplayView : MonoBehaviour
 	public Button rollDiceButton;
 	public Hero heroView;
 	public Board board;
-	public Text diceResult;
+	public Text diceResult1;
+	public Text diceResult2;
 	public Text heroHpText;
 	public Text monsterHpText;
+	public Text fightTitle;
 	public GameObject losePanel;
 	public GameObject winPanel;
 	public GameObject minigame1Panel;

@@ -94,16 +94,21 @@ public class GameplayController : MonoBehaviour
 
 	public IEnumerator RollDice_CR()
 	{
-		int diceResult = Random.Range( 1, 7 );
-		Debug.Log( "Dice result = " + diceResult );
+		_model.rollCount++;
+		int diceResult1 = Random.Range( 1, 7 );
+		int diceResult2 = Random.Range( 1, 7 );
+		Debug.Log( "Dice result = " + diceResult1 + "," + diceResult2 );
 		_view.rollDiceButton.interactable = false;
-		_view.diceResult.text = diceResult.ToString();
-		_view.heroView.Move( diceResult );
+		_view.diceResult1.text = diceResult1.ToString();
+		_view.diceResult2.text = diceResult2.ToString();
+		_view.heroView.Move( diceResult1 + diceResult2 );
 		yield return new WaitWhile( ()=> _view.heroView.isMoving );
 		isWorking = true;
 		ReadTileData();
 		yield return new WaitWhile( () => isWorking );
-		_view.rollDiceButton.GetComponent<Button>().interactable = true;
+		bool isRollLimitReached = (_model.rollCount >= _model.rollLimit);
+		_view.rollDiceButton.GetComponent<Button>().interactable = !isRollLimitReached;
+		if (isRollLimitReached) { _view.losePanel.SetActive( true ); }
 	}
 
 	private void ReadTileData()
