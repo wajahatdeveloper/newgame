@@ -13,7 +13,7 @@ public class GameplayController : MonoBehaviour
 	public GameplayModel _model;
 	public MonsterFight monsterFight;
 
-	private List<Tile> randomTiles = new List<Tile>();
+	private List<BoardTile> randomTiles = new List<BoardTile>();
 	private bool isWorking = false;
 
 	public void GameStart()
@@ -25,25 +25,25 @@ public class GameplayController : MonoBehaviour
 
 	private void InitializeRandomBoardData()
 	{
-		List<Tile> tmpTiles = new List<Tile>();
+		List<BoardTile> tmpTiles = new List<BoardTile>();
 		for (int i = 0; i < 38; i++)
 		{
-			tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.MonsterFight } );
+			tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.MonsterFight } );
 		}
 		for (int i = 0; i < 8; i++)
 		{
-			tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame1 } );
+			tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.Minigame1 } );
 		}
 		for (int i = 0; i < 8; i++)
 		{
-			tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame2 } );
+			tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.Minigame2 } );
 		}
 		for (int i = 0; i < 8; i++)
 		{
-			tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.Minigame3 } );
+			tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.Minigame3 } );
 		}
-		tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.PlayerLose } );
-		tmpTiles.Add( new Tile() { tileType = GameplayModel.TileType.PlayerWin } );
+		tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.PlayerLose } );
+		tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.PlayerWin } );
 		randomTiles = tmpTiles.Randomize().ToList();
 		Debug.Log( "total tile count = " + randomTiles.Count );
 	}
@@ -98,6 +98,7 @@ public class GameplayController : MonoBehaviour
 		int diceResult1 = Random.Range( 1, 7 );
 		int diceResult2 = Random.Range( 1, 7 );
 		Debug.Log( "Dice result = " + diceResult1 + "," + diceResult2 );
+		_view.rollCount.text = "Roll Count: " + _model.rollCount;
 		_view.rollDiceButton.interactable = false;
 		_view.diceResult1.text = diceResult1.ToString();
 		_view.diceResult2.text = diceResult2.ToString();
@@ -113,7 +114,7 @@ public class GameplayController : MonoBehaviour
 
 	private void ReadTileData()
 	{
-		Tile tileData = _view.board.tiles[_view.heroView.currentTileCount];
+		BoardTile tileData = _view.board.tiles[_view.heroView.currentTileCount];
 		Debug.Log( tileData.tileType );
 		switch (tileData.tileType)
 		{
@@ -126,7 +127,7 @@ public class GameplayController : MonoBehaviour
 			case GameplayModel.TileType.PlayerLose:
 				_view.losePanel.SetActive( true );
 				break;
-			case GameplayModel.TileType.Minigame1:
+			case GameplayModel.TileType.Minigame1:  // snake minigame
 				_view.minigame1Panel.SetActive( true );
 				break;
 			case GameplayModel.TileType.Minigame2:

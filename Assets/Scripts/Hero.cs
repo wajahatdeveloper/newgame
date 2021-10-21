@@ -42,7 +42,7 @@ public class Hero : MonoBehaviour
 		_MoveToTile( targetTile );
 	}
 
-	private void _MoveToTile( Tile targetTile )
+	private void _MoveToTile( BoardTile targetTile )
 	{
 		transform.DOMove( targetTile.transform.position, 0.5f ).OnComplete(()=> {
 			if (currentTileCount < targetTileCount)

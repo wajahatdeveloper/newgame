@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using static GameplayModel;
 
-public class Tile : MonoBehaviour
+public class BoardTile : MonoBehaviour
 {
-	public void CopyFrom(Tile tile)
+	public void CopyFrom(BoardTile tile)
 	{
 		tileType = tile.tileType;
 	}

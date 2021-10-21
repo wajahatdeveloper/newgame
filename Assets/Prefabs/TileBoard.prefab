@@ -94,7 +94,7 @@ GameObject:
   - component: {fileID: 6670210305788774914}
   - component: {fileID: 4701913052003178530}
   m_Layer: 0
-  m_Name: Tile
+  m_Name: TileBoard
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -175,7 +175,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 6670210305788774912}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 103dd472bc850b04c98e163bba6fbf5d, type: 3}
+  m_Script: {fileID: 11500000, guid: 3043a1e04eb18bc4f8e6f348a5c7ba7c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   tileType: 0

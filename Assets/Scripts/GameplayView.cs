@@ -7,7 +7,8 @@ public class GameplayView : MonoBehaviour
 {
 	public Button rollDiceButton;
 	public Hero heroView;
-	public Board board;
+	public GameBoard board;
+	public Text rollCount;
 	public Text diceResult1;
 	public Text diceResult2;
 	public Text heroHpText;
