@@ -34,7 +34,7 @@ public class GamePanel : MonoBehaviour {
 
 			if (_score >= winScore)
 			{
-                GetComponent<Game>().ShowGameWin();
+                GetComponentInParent<Game>().ShowGameWin();
 			}
         }
     }

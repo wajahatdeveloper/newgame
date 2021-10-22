@@ -142,6 +142,15 @@ public class GameplayController : MonoBehaviour
 		isWorking = false;
 	}
 
+	public void SnakeGameWon()
+	{
+	}
+
+	public void SnakeGameLost()
+	{
+		_view.losePanel.SetActive( true );
+	}
+
 	public void RestartGame()
 	{
 		SceneManager.LoadScene( SceneManager.GetActiveScene().buildIndex );

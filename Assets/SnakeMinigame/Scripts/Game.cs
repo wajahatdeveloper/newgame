@@ -62,12 +62,15 @@ public class Game : MonoBehaviour
     [Range(0f, 3f)]
     public float GameSpeed;
 
-    /// <summary>
-    /// Has to be set to game's board object.
-    /// </summary>
-    public Board Board;
+	/// <summary>
+	/// Has to be set to game's board object.
+	/// </summary>
+	public Board Board;
 
-    private int _score;
+    public UnityEngine.Events.UnityEvent OnLose;
+    public UnityEngine.Events.UnityEvent OnWin;
+
+	private int _score;
     private int _highScore;
 
     /// <summary>
@@ -217,6 +220,7 @@ public class Game : MonoBehaviour
         //HideAllPanels();
         Debug.Log( "You Lose Snake Game" );
         gameObject.SetActive( false );
+        OnLose?.Invoke();
         //GameOver.gameObject.SetActive(true);
     }
 
@@ -224,7 +228,8 @@ public class Game : MonoBehaviour
 	{
         Debug.Log( "You Win Snake Game" );
         gameObject.SetActive( false );
-	}
+        OnWin?.Invoke();
+    }
 
     /// <summary>
     /// Shows the board and starts the game.
@@ -270,7 +275,7 @@ public class Game : MonoBehaviour
         PlantAnApple();
 
         // Start bonus coroutine
-        PlantABonus();
+        // PlantABonus();
 
         // Start the game
         Paused = false;
