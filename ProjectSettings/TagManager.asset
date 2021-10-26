@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bomb
+  - Hat
   layers:
   - Default
   - TransparentFX
@@ -40,4 +42,25 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Layer1
+    uniqueID: 3965069047
+    locked: 0
+  - name: Layer2
+    uniqueID: 89234989
+    locked: 0
+  - name: Layer3
+    uniqueID: 823115529
+    locked: 0
+  - name: Layer4
+    uniqueID: 1021662363
+    locked: 0
+  - name: Layer5
+    uniqueID: 2543742871
+    locked: 0
+  - name: Layer6
+    uniqueID: 3855052287
+    locked: 0
+  - name: Layer7
+    uniqueID: 266653067
     locked: 0

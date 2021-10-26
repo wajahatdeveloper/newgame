@@ -155,6 +155,15 @@ public class GameplayController : MonoBehaviour
 	{
 		SceneManager.LoadScene( SceneManager.GetActiveScene().buildIndex );
 	}
+
+	public void CatchGameWon()
+	{
+	}
+
+	public void CatchGameLost()
+	{
+		_view.losePanel.SetActive( true );
+	}
 }
 
 public static class exts
