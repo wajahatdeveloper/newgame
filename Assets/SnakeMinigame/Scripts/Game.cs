@@ -360,8 +360,11 @@ public class Game : MonoBehaviour
         // Play game over sound effect
         soundManager.PlayGameOverSoundEffect();
 
-        // Stop bonus coroutine
-        StopCoroutine(bonusCoroutine);
+		// Stop bonus coroutine
+		if (bonusCoroutine != null)
+		{
+            StopCoroutine( bonusCoroutine );
+        }
 
         // Pause the game
         Paused = true;

@@ -28,6 +28,7 @@ public class GameplayView : MonoBehaviour
 	public Button heroAttack2Button;
 	public Button heroAttack3Button;
 	public Button heroAttack4Button;
+	public Sprite tileIconMoveBack;
 	public Sprite tileIconWin;
 	public Sprite tileIconLose;
 	public Sprite tileIconMonsterFight;

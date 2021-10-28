@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening;
 
 public class MonsterFight : MonoBehaviour
 {
@@ -14,6 +15,7 @@ public class MonsterFight : MonoBehaviour
 
 	public void StartFight()
 	{
+		EnablePlayerInput();
 		_view.fightTitle.text = "Fighting";
 		_view.monsterHpText.text = "100";
 		_view.monsterFightPanel.SetActive( true );
@@ -27,18 +29,28 @@ public class MonsterFight : MonoBehaviour
 		_view.heroHpText.text = "HP:" + _model.heroHp;
 	}
 
-	private void _MonsterTurn()
+	public void DisablePlayerInput()
 	{
 		_view.heroAttack1Button.interactable = false;
 		_view.heroAttack2Button.interactable = false;
 		_view.heroAttack3Button.interactable = false;
 		_view.heroAttack4Button.interactable = false;
+	}
 
-		Instantiate( _view.fightHitEffect, _view.heroIconImage.transform );
-		int damage = Random.Range( 15, 26 );
-		Debug.Log( "Monster Attacked : Damage = " + damage );
-		_model.heroHp -= damage;
-		CheckHeroHp();
+	private void _MonsterTurn()
+	{
+		DisablePlayerInput();
+
+		_view.monsterIconImage.transform.DOMoveX( _view.monsterIconImage.transform.position.x - 20.0f, 0.2f ).SetLoops( 2, LoopType.Yoyo ).SetEase(Ease.OutExpo);
+
+		this.Invoke( () =>
+		{
+			Instantiate( _view.fightHitEffect, _view.heroIconImage.transform );
+			int damage = Random.Range( 15, 26 );
+			Debug.Log( "Monster Attacked : Damage = " + damage );
+			_model.heroHp -= damage;
+			CheckHeroHp();
+		} , 0.4f );
 	}
 
 	public void CheckHeroHp()
@@ -50,12 +62,12 @@ public class MonsterFight : MonoBehaviour
 		}
 		else
 		{
-			Invoke( nameof( _HeroTurn ), TurnTime );
+			Invoke( nameof( EnablePlayerInput ), TurnTime );
 		}
 		_UpdateUI();
 	}
 
-	private void _HeroTurn()
+	private void EnablePlayerInput()
 	{
 		_view.heroAttack1Button.interactable = true;
 		_view.heroAttack2Button.interactable = true;
@@ -63,40 +75,65 @@ public class MonsterFight : MonoBehaviour
 		_view.heroAttack4Button.interactable = true;
 	}
 
+	public void HeroAttackMove()
+	{
+		_view.heroIconImage.transform.DOMoveX( _view.heroIconImage.transform.position.x + 20.0f, 0.2f ).SetLoops( 2, LoopType.Yoyo ).SetEase( Ease.OutExpo );
+	}
+
 	public void OnClick_Attack1()
 	{
-		Instantiate( _view.fightHitEffect, _view.monsterIconImage.transform );
-		int damage = Random.Range( heroDamageMin, heroDamageMax );
-		Debug.Log( "Attack 1 Clicked : Damage = " + damage );
-		monsterHp -= damage;
-		CheckMonsterHp();
+		DisablePlayerInput();
+		HeroAttackMove();
+		this.Invoke( () =>
+		{
+			Instantiate( _view.fightHitEffect, _view.monsterIconImage.transform );
+			int damage = Random.Range( heroDamageMin, heroDamageMax );
+			Debug.Log( "Attack 1 Clicked : Damage = " + damage );
+			monsterHp -= damage;
+			CheckMonsterHp();
+		}, 0.4f );
 	}
 
 	public void OnClick_Attack2()
 	{
-		Instantiate( _view.fightHitEffect, _view.monsterIconImage.transform );
-		int damage = Random.Range( heroDamageMin, heroDamageMax );
-		Debug.Log( "Attack 2 Clicked : Damage = " + damage );
-		monsterHp -= damage;
-		CheckMonsterHp();
+		DisablePlayerInput();
+		HeroAttackMove();
+		this.Invoke( () =>
+		{
+			Instantiate( _view.fightHitEffect, _view.monsterIconImage.transform );
+			int damage = Random.Range( heroDamageMin, heroDamageMax );
+			Debug.Log( "Attack 2 Clicked : Damage = " + damage );
+			monsterHp -= damage;
+			CheckMonsterHp();
+		}, 0.4f );
 	}
 
 	public void OnClick_Attack3()
 	{
-		Instantiate( _view.fightHitEffect, _view.monsterIconImage.transform );
-		int damage = Random.Range( heroDamageMin, heroDamageMax );
-		Debug.Log( "Attack 3 Clicked : Damage = " + damage );
-		monsterHp -= damage;
-		CheckMonsterHp();
+		DisablePlayerInput();
+		HeroAttackMove();
+		this.Invoke( () =>
+		{
+			Instantiate( _view.fightHitEffect, _view.monsterIconImage.transform );
+			int damage = Random.Range( heroDamageMin, heroDamageMax );
+			Debug.Log( "Attack 3 Clicked : Damage = " + damage );
+			monsterHp -= damage;
+			CheckMonsterHp();
+		}, 0.4f );
 	}
 
 	public void OnClick_Attack4()
 	{
-		Instantiate( _view.fightHitEffect, _view.monsterIconImage.transform );
-		int damage = Random.Range( heroDamageMin, heroDamageMax );
-		Debug.Log( "Attack 4 Clicked : Damage = " + damage );
-		monsterHp -= damage;
-		CheckMonsterHp();
+		DisablePlayerInput();
+		HeroAttackMove();
+		this.Invoke( () =>
+		{
+			Instantiate( _view.fightHitEffect, _view.monsterIconImage.transform );
+			int damage = Random.Range( heroDamageMin, heroDamageMax );
+			Debug.Log( "Attack 4 Clicked : Damage = " + damage );
+			monsterHp -= damage;
+			CheckMonsterHp();
+		}, 0.4f );
 	}
 
 	public void CheckMonsterHp()

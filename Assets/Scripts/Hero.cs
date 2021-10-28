@@ -10,11 +10,13 @@ public class Hero : MonoBehaviour
 
 	[HideInInspector] public bool isMoving;
 
-	public int currentTileCount = 0;
+	private int currentTileCount = 0;
 	public int targetTileCount = 0;
 
 	private GameplayView _view;
 	private GameplayModel _model;
+
+	public int CurrentTileCount { get => currentTileCount; set => currentTileCount =  Mathf.Clamp(value,0,63); }
 
 	private void Start()
 	{
@@ -24,31 +26,47 @@ public class Hero : MonoBehaviour
 
 	private void OnEnable()
 	{
-		currentTileCount = 0;
+		CurrentTileCount = 0;
 		targetTileCount = 0;
 	}
 
 	public void Move( int count )
 	{
 		isMoving = true;
-		_MoveForward( count );
+		if (count < 0)
+		{
+			_MoveBackwards(Mathf.Abs(count));
+		}
+		else
+		{
+			_MoveForward( count );
+		}
 	}
 
 	private void _MoveForward( int count )
 	{
-		targetTileCount = currentTileCount + count;
+		targetTileCount = CurrentTileCount + count;
 		if (targetTileCount >= 63) { targetTileCount = 63; }
-		var targetTile = _view.board.tiles[currentTileCount];
+		var targetTile = _view.board.tiles[CurrentTileCount];
+		_MoveToTile( targetTile );
+	}
+
+	private void _MoveBackwards( int count )
+	{
+		targetTileCount = targetTileCount - count;
+		currentTileCount = targetTileCount;
+		if (targetTileCount <= 0) { targetTileCount = 0; }
+		var targetTile = _view.board.tiles[targetTileCount];
 		_MoveToTile( targetTile );
 	}
 
 	private void _MoveToTile( BoardTile targetTile )
 	{
 		transform.DOMove( targetTile.transform.position, 0.5f ).OnComplete(()=> {
-			if (currentTileCount < targetTileCount)
+			if (CurrentTileCount != targetTileCount)
 			{
-				currentTileCount++;
-				var targetTile = _view.board.tiles[currentTileCount];
+				CurrentTileCount++;
+				var targetTile = _view.board.tiles[CurrentTileCount];
 				_MoveToTile( targetTile );
 			}
 			else

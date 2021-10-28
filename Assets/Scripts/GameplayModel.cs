@@ -7,6 +7,7 @@ public class GameplayModel : MonoBehaviour
 	public enum TileType
 	{
 		MonsterFight,
+		MoveBack,
 		PlayerWin,
 		PlayerLose,
 		Minigame1,
@@ -17,4 +18,5 @@ public class GameplayModel : MonoBehaviour
 	public int heroHp = 100;
 	public int rollLimit = 10;
 	public int rollCount = 0;
+	public int moveBackCount = 1;
 }

@@ -26,7 +26,7 @@ public class GameplayController : MonoBehaviour
 	private void InitializeRandomBoardData()
 	{
 		List<BoardTile> tmpTiles = new List<BoardTile>();
-		for (int i = 0; i < 38; i++)
+		for (int i = 0; i < 37; i++)
 		{
 			tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.MonsterFight } );
 		}
@@ -42,6 +42,7 @@ public class GameplayController : MonoBehaviour
 		{
 			tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.Minigame3 } );
 		}
+		tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.MoveBack } );
 		tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.PlayerLose } );
 		tmpTiles.Add( new BoardTile() { tileType = GameplayModel.TileType.PlayerWin } );
 		randomTiles = tmpTiles.Randomize().ToList();
@@ -61,6 +62,9 @@ public class GameplayController : MonoBehaviour
 			{
 				case GameplayModel.TileType.MonsterFight:
 					spr = _view.tileIconMonsterFight;
+					break;
+				case GameplayModel.TileType.MoveBack:
+					spr = _view.tileIconMoveBack;
 					break;
 				case GameplayModel.TileType.PlayerWin:
 					spr = _view.tileIconWin;
@@ -114,12 +118,15 @@ public class GameplayController : MonoBehaviour
 
 	private void ReadTileData()
 	{
-		BoardTile tileData = _view.board.tiles[_view.heroView.currentTileCount];
+		BoardTile tileData = _view.board.tiles[_view.heroView.CurrentTileCount];
 		Debug.Log( tileData.tileType );
 		switch (tileData.tileType)
 		{
 			case GameplayModel.TileType.MonsterFight:
 				monsterFight.StartFight();
+				break;
+			case GameplayModel.TileType.MoveBack:
+				StartCoroutine( MoveBack());
 				break;
 			case GameplayModel.TileType.PlayerWin:
 				_view.winPanel.SetActive( true );
@@ -130,7 +137,7 @@ public class GameplayController : MonoBehaviour
 			case GameplayModel.TileType.Minigame1:  // snake minigame
 				_view.minigame1Panel.SetActive( true );
 				break;
-			case GameplayModel.TileType.Minigame2:
+			case GameplayModel.TileType.Minigame2:	// catch minigame
 				_view.minigame2Panel.SetActive( true );
 				break;
 			case GameplayModel.TileType.Minigame3:
@@ -140,6 +147,14 @@ public class GameplayController : MonoBehaviour
 				break;
 		}
 		isWorking = false;
+	}
+
+	public IEnumerator MoveBack()
+	{
+		_view.rollDiceButton.interactable = false;
+		_view.heroView.Move( -1 );
+		yield return new WaitWhile( () => _view.heroView.isMoving );
+		_view.rollDiceButton.interactable = true;
 	}
 
 	public void SnakeGameWon()
