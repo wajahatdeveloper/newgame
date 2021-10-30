@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Bomb
   - Hat
+  - Obstacle
   layers:
   - Default
   - TransparentFX

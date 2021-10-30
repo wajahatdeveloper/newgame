@@ -140,7 +140,7 @@ public class GameplayController : MonoBehaviour
 			case GameplayModel.TileType.Minigame2:	// catch minigame
 				_view.minigame2Panel.SetActive( true );
 				break;
-			case GameplayModel.TileType.Minigame3:
+			case GameplayModel.TileType.Minigame3:	// runner minigame
 				_view.minigame3Panel.SetActive( true );
 				break;
 			default:
@@ -162,6 +162,15 @@ public class GameplayController : MonoBehaviour
 	}
 
 	public void SnakeGameLost()
+	{
+		_view.losePanel.SetActive( true );
+	}
+
+	public void RunnerGameWon()
+	{
+	}
+
+	public void RunnerGameLost()
 	{
 		_view.losePanel.SetActive( true );
 	}
