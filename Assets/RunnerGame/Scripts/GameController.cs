@@ -11,6 +11,7 @@ public class GameController : MonoBehaviour
 	public GameObject sky;
 	public GameObject ground;
 	public GameObject player;
+	public GameObject startPanel;
 	public GameObject winPanel;
 	public ObstacleSpawner obstacleSpawner;
 	public Text timerText;
@@ -19,6 +20,12 @@ public class GameController : MonoBehaviour
 
 	public UnityEvent onWin;
 	public UnityEvent onLost;
+
+	private void OnEnable()
+	{
+		winPanel.SetActive( false );
+		startPanel.SetActive( true );
+	}
 
 	public void StartGame()
 	{
@@ -34,6 +41,11 @@ public class GameController : MonoBehaviour
 			StartCoroutine( Timer() );
 		}
 		, 1.0f );
+	}
+
+	private void OnDisable()
+	{
+		StopAllCoroutines();
 	}
 
 	private IEnumerator Timer()

@@ -14,12 +14,14 @@ public class Snake : IEnumerable<IntVector2>
     /// <summary>
     /// Stores buldges locations
     /// </summary>
-    private HashSet<IntVector2> bulges;
+    // private HashSet<IntVector2> bulges;
 
     /// <summary>
     /// Game board.
     /// </summary>
     private Board board;
+
+    private bool snakebody1 = true;
 
     /// <summary>
     /// Gets snake's head position.
@@ -47,7 +49,7 @@ public class Snake : IEnumerable<IntVector2>
     {
         this.board = board;
         body = new LinkedList<IntVector2>();
-        bulges = new HashSet<IntVector2>();
+        // bulges = new HashSet<IntVector2>();
         Reset();
     }
 
@@ -84,7 +86,7 @@ public class Snake : IEnumerable<IntVector2>
         }
 
         body.Clear();
-        bulges.Clear();
+        // bulges.Clear();
 
         var start = new IntVector2(5, 13);
         for (int i = 0; i < 5; i++)
@@ -108,11 +110,11 @@ public class Snake : IEnumerable<IntVector2>
         body.AddLast(newHead);
         if (extend)
         {
-            bulges.Add(newHead);
+            // bulges.Add(newHead);
         }
         else
         {
-            bulges.Remove(body.First.Value);
+            // bulges.Remove(body.First.Value);
             board[body.First.Value].Content = TileContent.Empty;
             body.RemoveFirst();
         }
@@ -158,37 +160,64 @@ public class Snake : IEnumerable<IntVector2>
             tile = board[current.Value];
             if (previous.Value.x == next.Value.x)
             {
-                if (bulges.Contains(current.Value))
+                /*if (bulges.Contains(current.Value))
                 {
                     tile.Content = TileContent.SnakesBulge;
                 }
-                else
+                else*/
                 {
-                    tile.Content = TileContent.SnakesBody;
+					if (snakebody1)
+					{
+                        tile.Content = TileContent.SnakesBody1;
+                        snakebody1 = false;
+					}
+                    else
+					{
+                        tile.Content = TileContent.SnakesBody2;
+                        snakebody1 = true;
+                    }
                 }
                 tile.ZRotation = 0;
             }
             else if (previous.Value.y == next.Value.y)
             {
-                if (bulges.Contains(current.Value))
+               /* if (bulges.Contains(current.Value))
                 {
                     tile.Content = TileContent.SnakesBulge;
                 }
-                else
+                else*/
                 {
-                    tile.Content = TileContent.SnakesBody;
+                    if (snakebody1)
+                    {
+                        tile.Content = TileContent.SnakesBody1;
+                        snakebody1 = false;
+                    }
+                    else
+                    {
+                        tile.Content = TileContent.SnakesBody2;
+                        snakebody1 = true;
+                    }
                 }
                 tile.ZRotation = 90;
             }
             else
             {
-                if (bulges.Contains(current.Value))
+                /*if (bulges.Contains(current.Value))
                 {
                     tile.Content = TileContent.SnakesLBulged;
                 }
-                else
+                else*/
                 {
-                    tile.Content = TileContent.SnakesL;
+                    if (snakebody1)
+                    {
+                        tile.Content = TileContent.SnakesL1;
+                        snakebody1 = false;
+                    }
+                    else
+                    {
+                        tile.Content = TileContent.SnakesL2;
+                        snakebody1 = true;
+                    }
                 }
                 if ((previous.Value.x > current.Value.x && next.Value.y < current.Value.y) || (next.Value.x > current.Value.x && previous.Value.y < current.Value.y))
                 {
@@ -220,7 +249,16 @@ public class Snake : IEnumerable<IntVector2>
         var previousPosition = body.First.Next.Value;
 
         tile = board[tailPosition];
-        tile.Content = TileContent.SnakesTail;
+        if (snakebody1)
+        {
+            tile.Content = TileContent.SnakesTail1;
+            snakebody1 = false;
+        }
+        else
+        {
+            tile.Content = TileContent.SnakesTail2;
+            snakebody1 = true;
+        }
 
         if (previousPosition.y > tailPosition.y)
         {

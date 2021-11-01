@@ -33,6 +33,11 @@ public class GameController : MonoBehaviour {
 		UpdateText ();
 	}
 
+	private void OnDisable()
+	{
+		StopAllCoroutines();
+	}
+
 	void FixedUpdate () {
 		if (playing) {
 			// timeLeft -= Time.deltaTime;
@@ -77,7 +82,7 @@ public class GameController : MonoBehaviour {
 		yield return new WaitForSeconds(2.0f);
 		gameOverText.SetActive (true);
 		yield return new WaitForSeconds(1.0f);
-		restartButton.SetActive (true);
+		/// restartButton.SetActive (true);
 	} 
 
 	void UpdateText () {

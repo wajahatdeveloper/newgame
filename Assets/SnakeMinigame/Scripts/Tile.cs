@@ -21,11 +21,13 @@ public class Tile : MonoBehaviour
     /// <summary>
     /// Sprite for snake's body.
     /// </summary>
-    public Sprite SnakesBody;
+    public Sprite SnakesBody1;
+    public Sprite SnakesBody2;
     /// <summary>
     /// Sprite for snake's tail.
     /// </summary>
-    public Sprite SnakesTail;
+    public Sprite SnakesTail1;
+    public Sprite SnakesTail2;
     /// <summary>
     /// Sprite for snake's bulged body.
     /// </summary>
@@ -33,7 +35,8 @@ public class Tile : MonoBehaviour
     /// <summary>
     /// Sprite for snake's L shape
     /// </summary>
-    public Sprite SnakesL;
+    public Sprite SnakesL1;
+    public Sprite SnakesL2;
     /// <summary>
     /// Sprite for snake's L bulged shape
     /// </summary>
@@ -95,17 +98,26 @@ public class Tile : MonoBehaviour
                 case TileContent.SnakesHead:
                     image.sprite = SnakesHead;
                     break;
-                case TileContent.SnakesBody:
-                    image.sprite = SnakesBody;
+                case TileContent.SnakesBody1:
+                    image.sprite = SnakesBody1;
+                    break;
+                case TileContent.SnakesBody2:
+                    image.sprite = SnakesBody2;
                     break;
                 case TileContent.SnakesBulge:
                     image.sprite = SnakesBulge;
                     break;
-                case TileContent.SnakesTail:
-                    image.sprite = SnakesTail;
+                case TileContent.SnakesTail1:
+                    image.sprite = SnakesTail1;
                     break;
-                case TileContent.SnakesL:
-                    image.sprite = SnakesL;
+                case TileContent.SnakesTail2:
+                    image.sprite = SnakesTail2;
+                    break;
+                case TileContent.SnakesL1:
+                    image.sprite = SnakesL1;
+                    break;
+                case TileContent.SnakesL2:
+                    image.sprite = SnakesL2;
                     break;
                 case TileContent.SnakesLBulged:
                     image.sprite = SnakesLBulged;
