@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 32a78008bd362fa4294d656fa81cea3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7496575308915891026
+    second: jumping sprite sheet (M)_0
+  - first:
+      213: -4226410290129463905
+    second: jumping sprite sheet (M)_1
+  - first:
+      213: -2753248339558606218
+    second: jumping sprite sheet (M)_2
+  - first:
+      213: 2017795925809705499
+    second: jumping sprite sheet (M)_3
+  - first:
+      213: -8437508549071393843
+    second: jumping sprite sheet (M)_4
+  - first:
+      213: -1974673725272050831
+    second: jumping sprite sheet (M)_5
+  - first:
+      213: -6804617253744334622
+    second: jumping sprite sheet (M)_6
+  - first:
+      213: 9170416620563217951
+    second: jumping sprite sheet (M)_7
+  - first:
+      213: -1239596497262955103
+    second: jumping sprite sheet (M)_8
+  - first:
+      213: -5242103502261441674
+    second: jumping sprite sheet (M)_9
+  - first:
+      213: 2797475925754478954
+    second: jumping sprite sheet (M)_10
+  - first:
+      213: -187450006093119567
+    second: jumping sprite sheet (M)_11
+  - first:
+      213: 2119353266559402126
+    second: jumping sprite sheet (M)_12
+  - first:
+      213: 1813689389122011976
+    second: jumping sprite sheet (M)_13
+  - first:
+      213: 1655571514774712118
+    second: jumping sprite sheet (M)_14
+  - first:
+      213: -3461727952049697137
+    second: jumping sprite sheet (M)_15
+  - first:
+      213: 2357966543989627981
+    second: jumping sprite sheet (M)_16
+  - first:
+      213: 6199799102180900185
+    second: jumping sprite sheet (M)_17
+  - first:
+      213: 4883024969585892096
+    second: jumping sprite sheet (M)_18
+  - first:
+      213: -4648253287142480129
+    second: jumping sprite sheet (M)_19
+  - first:
+      213: 3631943577731383967
+    second: jumping sprite sheet (M)_20
+  - first:
+      213: 2529184152229177639
+    second: jumping sprite sheet (M)_21
+  - first:
+      213: 2434961518140857374
+    second: jumping sprite sheet (M)_22
+  - first:
+      213: -6401694506249259514
+    second: jumping sprite sheet (M)_23
+  - first:
+      213: -6155719726377453164
+    second: jumping sprite sheet (M)_24
+  - first:
+      213: 6508120483206303769
+    second: jumping sprite sheet (M)_25
+  - first:
+      213: 2639190763160012748
+    second: jumping sprite sheet (M)_26
+  - first:
+      213: 7490755269593682919
+    second: jumping sprite sheet (M)_27
+  - first:
+      213: -3792308379239332186
+    second: jumping sprite sheet (M)_28
+  - first:
+      213: -8088541201078905155
+    second: jumping sprite sheet (M)_29
+  - first:
+      213: -3959355641653494105
+    second: jumping sprite sheet (M)_30
+  - first:
+      213: 3486029227629666099
+    second: jumping sprite sheet (M)_31
+  - first:
+      213: -2945388660835971117
+    second: jumping sprite sheet (M)_32
+  - first:
+      213: -2630952912175871014
+    second: jumping sprite sheet (M)_33
+  - first:
+      213: 8731962658144304923
+    second: jumping sprite sheet (M)_34
+  - first:
+      213: -8994590496208479050
+    second: jumping sprite sheet (M)_35
+  - first:
+      213: -7087196219456896433
+    second: jumping sprite sheet (M)_36
+  - first:
+      213: 6850382873899879664
+    second: jumping sprite sheet (M)_37
+  - first:
+      213: 1829797246881853776
+    second: jumping sprite sheet (M)_38
+  - first:
+      213: 5488433704463087005
+    second: jumping sprite sheet (M)_39
+  - first:
+      213: -4773380881384999791
+    second: jumping sprite sheet (M)_40
+  - first:
+      213: 126113699829397476
+    second: jumping sprite sheet (M)_41
+  - first:
+      213: -7336003345937117521
+    second: jumping sprite sheet (M)_42
+  - first:
+      213: -92964384644423441
+    second: jumping sprite sheet (M)_43
+  - first:
+      213: -8468454819365954917
+    second: jumping sprite sheet (M)_44
+  - first:
+      213: -9144379017634470120
+    second: jumping sprite sheet (M)_45
+  - first:
+      213: -5486494407013239017
+    second: jumping sprite sheet (M)_46
+  - first:
+      213: -392608117961484298
+    second: jumping sprite sheet (M)_47
+  - first:
+      213: -4408430160943522728
+    second: jumping sprite sheet (M)_48
+  - first:
+      213: 8791353255116494096
+    second: jumping sprite sheet (M)_49
+  - first:
+      213: 8159333795773908336
+    second: jumping sprite sheet (M)_50
+  - first:
+      213: 2175182451743622250
+    second: jumping sprite sheet (M)_51
+  - first:
+      213: 779214512764974170
+    second: jumping sprite sheet (M)_52
+  - first:
+      213: -1079384544689191175
+    second: jumping sprite sheet (M)_53
+  - first:
+      213: -3618356337351209510
+    second: jumping sprite sheet (M)_54
+  - first:
+      213: 1370986340005166762
+    second: jumping sprite sheet (M)_55
+  - first:
+      213: -200991342950399252
+    second: jumping sprite sheet (M)_56
+  - first:
+      213: 1495620955043129268
+    second: jumping sprite sheet (M)_57
+  - first:
+      213: -330612302123221550
+    second: jumping sprite sheet (M)_58
+  - first:
+      213: -2168035086170222764
+    second: jumping sprite sheet (M)_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b55ef568f290860800000000000000
+      internalID: 7496575308915891026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_1
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9517cdcb36c855c0800000000000000
+      internalID: -4226410290129463905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_2
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67adc26f83f7ac9d0800000000000000
+      internalID: -2753248339558606218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_3
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b123e1b24b6a00c10800000000000000
+      internalID: 2017795925809705499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_4
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb274fada2f7ea80800000000000000
+      internalID: -8437508549071393843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_5
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173bcd985bc8894e0800000000000000
+      internalID: -1974673725272050831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_6
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8231ef8a42191a0800000000000000
+      internalID: -6804617253744334622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_7
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e3207545dd34f70800000000000000
+      internalID: 9170416620563217951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_8
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b2dbad811ccee0800000000000000
+      internalID: -1239596497262955103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_9
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b20e773ae4047b0800000000000000
+      internalID: -5242103502261441674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_10
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a618d466881a2d620800000000000000
+      internalID: 2797475925754478954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_11
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfbcad663b066df0800000000000000
+      internalID: -187450006093119567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8046de2194796d10800000000000000
+      internalID: 2119353266559402126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843438bd3e48b2910800000000000000
+      internalID: 1813689389122011976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_14
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fe6666585c9f610800000000000000
+      internalID: 1655571514774712118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_15
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e8905c4c875ffc0800000000000000
+      internalID: -3461727952049697137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_16
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4cd1c6241e29b020800000000000000
+      internalID: 2357966543989627981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_17
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d374c7f6c1a0650800000000000000
+      internalID: 6199799102180900185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_18
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b9785a65df3c340800000000000000
+      internalID: 4883024969585892096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_19
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6a4d943461e7fb0800000000000000
+      internalID: -4648253287142480129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_20
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c0fae071476230800000000000000
+      internalID: 3631943577731383967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_21
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729ea251697791320800000000000000
+      internalID: 2529184152229177639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_22
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c188a8998bac120800000000000000
+      internalID: 2434961518140857374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_23
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6067172a3cc9827a0800000000000000
+      internalID: -6401694506249259514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4993864f58d729aa0800000000000000
+      internalID: -6155719726377453164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91094f4191d715a50800000000000000
+      internalID: 6508120483206303769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_26
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc705ac140a40a420800000000000000
+      internalID: 2639190763160012748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_27
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3548fda3284f760800000000000000
+      internalID: 7490755269593682919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_28
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6c3b02f930f5bc0800000000000000
+      internalID: -3792308379239332186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_29
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6949ee1aabfbf80800000000000000
+      internalID: -8088541201078905155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_30
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aefdcf750b8d09c0800000000000000
+      internalID: -3959355641653494105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_31
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fde7ddc1dd06030800000000000000
+      internalID: 3486029227629666099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_32
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df88694e90ef17d0800000000000000
+      internalID: -2945388660835971117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_33
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb4af8044afc7bd0800000000000000
+      internalID: -2630952912175871014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_34
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fbaae06c92e2970800000000000000
+      internalID: 8731962658144304923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_35
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc936d599bcc2380800000000000000
+      internalID: -8994590496208479050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c7c5869835ad90800000000000000
+      internalID: -7087196219456896433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_37
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcc83ecde2711f50800000000000000
+      internalID: 6850382873899879664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051716fb6eeb46910800000000000000
+      internalID: 1829797246881853776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_39
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95bdcf0065da2c40800000000000000
+      internalID: 5488433704463087005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_40
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194f76bf06b81cdb0800000000000000
+      internalID: -4773380881384999791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_41
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e734a7edbb00c100800000000000000
+      internalID: 126113699829397476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_42
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae475e13d7413a90800000000000000
+      internalID: -7336003345937117521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_43
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a18c7269b5bef0800000000000000
+      internalID: -92964384644423441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_44
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a5f37a5310a7a80800000000000000
+      internalID: -8468454819365954917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_45
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817ac528bb3a81180800000000000000
+      internalID: -9144379017634470120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_46
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717fecfc76e0cd3b0800000000000000
+      internalID: -5486494407013239017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_47
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f798f03ffc2d8af0800000000000000
+      internalID: -392608117961484298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cd7df102c12d2c0800000000000000
+      internalID: -4408430160943522728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_49
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015513af439210a70800000000000000
+      internalID: 8791353255116494096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_50
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07581f47bd6cb3170800000000000000
+      internalID: 8159333795773908336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_51
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6487dd4aeccf2e10800000000000000
+      internalID: 2175182451743622250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_52
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a547f2d887350da00800000000000000
+      internalID: 779214512764974170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_53
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f601c5b9714501f0800000000000000
+      internalID: -1079384544689191175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_54
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: addc561051409cdc0800000000000000
+      internalID: -3618356337351209510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_55
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaebbebffc8b60310800000000000000
+      internalID: 1370986340005166762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_56
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce24380407fe53df0800000000000000
+      internalID: -200991342950399252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_57
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e9ff955381c410800000000000000
+      internalID: 1495620955043129268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_58
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd3295ecdd696bf0800000000000000
+      internalID: -330612302123221550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumping sprite sheet (M)_59
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f8d3c639799e1e0800000000000000
+      internalID: -2168035086170222764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class GameplayView : MonoBehaviour
 {
 	public Button rollDiceButton;
-	public Hero heroView;
+	public HeroMovement heroView;
 	public GameBoard board;
 	public Text rollCount;
 	public Text diceResult1;

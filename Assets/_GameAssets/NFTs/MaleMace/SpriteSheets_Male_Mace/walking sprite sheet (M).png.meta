@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: 6aea38bee7a87334f9adddb8b1181181
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1870135658612098946
+    second: walking sprite sheet (M)_0
+  - first:
+      213: 3364261548887109893
+    second: walking sprite sheet (M)_1
+  - first:
+      213: 7829375248506631945
+    second: walking sprite sheet (M)_2
+  - first:
+      213: 1317645999521553045
+    second: walking sprite sheet (M)_3
+  - first:
+      213: -6631349717656047795
+    second: walking sprite sheet (M)_4
+  - first:
+      213: -4519169552814187830
+    second: walking sprite sheet (M)_5
+  - first:
+      213: -2332373715742123784
+    second: walking sprite sheet (M)_6
+  - first:
+      213: -9045709823175507201
+    second: walking sprite sheet (M)_7
+  - first:
+      213: -1880205800813247925
+    second: walking sprite sheet (M)_8
+  - first:
+      213: -7212960094303426051
+    second: walking sprite sheet (M)_9
+  - first:
+      213: 4963087149576881001
+    second: walking sprite sheet (M)_10
+  - first:
+      213: 4057259302534610799
+    second: walking sprite sheet (M)_11
+  - first:
+      213: 7882342481418758604
+    second: walking sprite sheet (M)_12
+  - first:
+      213: 4651667114301569885
+    second: walking sprite sheet (M)_13
+  - first:
+      213: -2608801627227283635
+    second: walking sprite sheet (M)_14
+  - first:
+      213: -619922944542889354
+    second: walking sprite sheet (M)_15
+  - first:
+      213: -8494226786497742996
+    second: walking sprite sheet (M)_16
+  - first:
+      213: 227543331855133996
+    second: walking sprite sheet (M)_17
+  - first:
+      213: -1847033909531713765
+    second: walking sprite sheet (M)_18
+  - first:
+      213: 2070331879931077428
+    second: walking sprite sheet (M)_19
+  - first:
+      213: -5949277753334358269
+    second: walking sprite sheet (M)_20
+  - first:
+      213: -5110773026282147699
+    second: walking sprite sheet (M)_21
+  - first:
+      213: 1124472854803987053
+    second: walking sprite sheet (M)_22
+  - first:
+      213: -591212980590163908
+    second: walking sprite sheet (M)_23
+  - first:
+      213: -2280059143979590831
+    second: walking sprite sheet (M)_24
+  - first:
+      213: -2335879450897409752
+    second: walking sprite sheet (M)_25
+  - first:
+      213: 5137627571850846393
+    second: walking sprite sheet (M)_26
+  - first:
+      213: 3821912594931812046
+    second: walking sprite sheet (M)_27
+  - first:
+      213: 268530009200404725
+    second: walking sprite sheet (M)_28
+  - first:
+      213: 7641694340673242478
+    second: walking sprite sheet (M)_29
+  - first:
+      213: -8409761020930738225
+    second: walking sprite sheet (M)_30
+  - first:
+      213: -1829410230359593728
+    second: walking sprite sheet (M)_31
+  - first:
+      213: -4275181818753762725
+    second: walking sprite sheet (M)_32
+  - first:
+      213: -1937810040013449227
+    second: walking sprite sheet (M)_33
+  - first:
+      213: -4902460019980012425
+    second: walking sprite sheet (M)_34
+  - first:
+      213: 2296027466613233776
+    second: walking sprite sheet (M)_35
+  - first:
+      213: -5454010209328755853
+    second: walking sprite sheet (M)_36
+  - first:
+      213: 144972959020097115
+    second: walking sprite sheet (M)_37
+  - first:
+      213: 1418417315187481895
+    second: walking sprite sheet (M)_38
+  - first:
+      213: -2205230518728806732
+    second: walking sprite sheet (M)_39
+  - first:
+      213: 2945416720786785002
+    second: walking sprite sheet (M)_40
+  - first:
+      213: 702803508463777556
+    second: walking sprite sheet (M)_41
+  - first:
+      213: 5986843567278720017
+    second: walking sprite sheet (M)_42
+  - first:
+      213: -844051915485753280
+    second: walking sprite sheet (M)_43
+  - first:
+      213: 4535665133866547890
+    second: walking sprite sheet (M)_44
+  - first:
+      213: 6906483022953849468
+    second: walking sprite sheet (M)_45
+  - first:
+      213: -3866338227779231398
+    second: walking sprite sheet (M)_46
+  - first:
+      213: -3424779083046973010
+    second: walking sprite sheet (M)_47
+  - first:
+      213: 1451176915828689054
+    second: walking sprite sheet (M)_48
+  - first:
+      213: 1718628335909809941
+    second: walking sprite sheet (M)_49
+  - first:
+      213: 6202827520980444518
+    second: walking sprite sheet (M)_50
+  - first:
+      213: 7670748767046288633
+    second: walking sprite sheet (M)_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2878d5d197e04f910800000000000000
+      internalID: 1870135658612098946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_1
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501fbe8dd0240be20800000000000000
+      internalID: 3364261548887109893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_2
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90739748e4787ac60800000000000000
+      internalID: 7829375248506631945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_3
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a523d2e08394210800000000000000
+      internalID: 1317645999521553045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_4
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f69b1f096b8f3a0800000000000000
+      internalID: -6631349717656047795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_5
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acadfbc3c3fa841c0800000000000000
+      internalID: -4519169552814187830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_6
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89bb5867eb1afd0800000000000000
+      internalID: -2332373715742123784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_7
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2cc5097de277280800000000000000
+      internalID: -9045709823175507201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_8
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42c5e139ca28e5e0800000000000000
+      internalID: -1880205800813247925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_9
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e9f7920b66eb90800000000000000
+      internalID: -7212960094303426051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_10
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96306db877d60e440800000000000000
+      internalID: 4963087149576881001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_11
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7931e6d74e4830800000000000000
+      internalID: 4057259302534610799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9afe279b4b36d60800000000000000
+      internalID: 7882342481418758604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bbf49489a0e8040800000000000000
+      internalID: 4651667114301569885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_14
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f18a7fdbcabcbd0800000000000000
+      internalID: -2608801627227283635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_15
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a286ecd579567f0800000000000000
+      internalID: -619922944542889354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_16
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67b135fdb17e1a80800000000000000
+      internalID: -8494226786497742996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_17
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2deb3a6475682300800000000000000
+      internalID: 227543331855133996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_18
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fd24ef1740e56e0800000000000000
+      internalID: -1847033909531713765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_19
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433657e20eb4bbc10800000000000000
+      internalID: 2070331879931077428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_20
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f1f5a676bef6da0800000000000000
+      internalID: -5949277753334358269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_21
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80fdc8b203e219b0800000000000000
+      internalID: -5110773026282147699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_22
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a392e8a1eea9f00800000000000000
+      internalID: 1124472854803987053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_23
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38c2513de69bc7f0800000000000000
+      internalID: -591212980590163908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b1730f94a9b50e0800000000000000
+      internalID: -2280059143979590831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8291023f30a459fd0800000000000000
+      internalID: -2335879450897409752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_26
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b02c686e058c4740800000000000000
+      internalID: 5137627571850846393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_27
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6808771492a0530800000000000000
+      internalID: 3821912594931812046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_28
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f82ce1ee920ab300800000000000000
+      internalID: 268530009200404725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_29
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6501f1f380cc0a60800000000000000
+      internalID: 7641694340673242478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_30
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc73f7588e68a4b80800000000000000
+      internalID: -8409761020930738225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_31
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d63fe8611ac96e0800000000000000
+      internalID: -1829410230359593728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_32
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a39f669c08ba4c0800000000000000
+      internalID: -4275181818753762725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_33
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f710da19048b15e0800000000000000
+      internalID: -1937810040013449227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_34
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774798f0696f6fbb0800000000000000
+      internalID: -4902460019980012425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_35
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0789506e0d02ddf10800000000000000
+      internalID: 2296027466613233776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b0b977c967f44b0800000000000000
+      internalID: -5454010209328755853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_37
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e1e6c532c030200800000000000000
+      internalID: 144972959020097115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d5307780b3fa310800000000000000
+      internalID: 1418417315187481895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_39
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bea15be6827561e0800000000000000
+      internalID: -2205230518728806732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_40
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20efde6e830e820800000000000000
+      internalID: 2945416720786785002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_41
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417b1ec311cd0c900800000000000000
+      internalID: 702803508463777556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_42
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1140b79318a851350800000000000000
+      internalID: 5986843567278720017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_43
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040db7d31435944f0800000000000000
+      internalID: -844051915485753280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_44
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba7d34886be1fe30800000000000000
+      internalID: 4535665133866547890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_45
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c722e6e97b1c8df50800000000000000
+      internalID: 6906483022953849468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_46
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a4b7ddd1085ac0800000000000000
+      internalID: -3866338227779231398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_47
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea11cc8b19db870d0800000000000000
+      internalID: -3424779083046973010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98473e57bd932410800000000000000
+      internalID: 1451176915828689054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_49
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f23d6ad5bc9d710800000000000000
+      internalID: 1718628335909809941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_50
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6656e0f24ced41650800000000000000
+      internalID: 6202827520980444518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walking sprite sheet (M)_51
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f44f0dbc59f37a60800000000000000
+      internalID: 7670748767046288633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

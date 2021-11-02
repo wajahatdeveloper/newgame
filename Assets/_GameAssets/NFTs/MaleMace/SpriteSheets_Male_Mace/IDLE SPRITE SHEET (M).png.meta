@@ -1,0 +1,1560 @@
+fileFormatVersion: 2
+guid: 585c82f0dc6198d4ebfbaaae90adc9a1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8023942477577108277
+    second: IDLE SPRITE SHEET (M)_0
+  - first:
+      213: -4917071423680341577
+    second: IDLE SPRITE SHEET (M)_1
+  - first:
+      213: 507251850398404912
+    second: IDLE SPRITE SHEET (M)_2
+  - first:
+      213: -7060129232604001110
+    second: IDLE SPRITE SHEET (M)_3
+  - first:
+      213: -777582913886641854
+    second: IDLE SPRITE SHEET (M)_4
+  - first:
+      213: -7647812331597335066
+    second: IDLE SPRITE SHEET (M)_5
+  - first:
+      213: 7482863517739416125
+    second: IDLE SPRITE SHEET (M)_6
+  - first:
+      213: 7341891674152739899
+    second: IDLE SPRITE SHEET (M)_7
+  - first:
+      213: -1402185434176574285
+    second: IDLE SPRITE SHEET (M)_8
+  - first:
+      213: -7687113083089082786
+    second: IDLE SPRITE SHEET (M)_9
+  - first:
+      213: -6636173824162122679
+    second: IDLE SPRITE SHEET (M)_10
+  - first:
+      213: 62690881778754084
+    second: IDLE SPRITE SHEET (M)_11
+  - first:
+      213: 5755851878601264400
+    second: IDLE SPRITE SHEET (M)_12
+  - first:
+      213: -4354478159399948790
+    second: IDLE SPRITE SHEET (M)_13
+  - first:
+      213: -5929058334856541197
+    second: IDLE SPRITE SHEET (M)_14
+  - first:
+      213: 5201744655816408624
+    second: IDLE SPRITE SHEET (M)_15
+  - first:
+      213: 8157624545700083622
+    second: IDLE SPRITE SHEET (M)_16
+  - first:
+      213: -6901556050062772078
+    second: IDLE SPRITE SHEET (M)_17
+  - first:
+      213: 7021209190404267564
+    second: IDLE SPRITE SHEET (M)_18
+  - first:
+      213: -5909953477387443742
+    second: IDLE SPRITE SHEET (M)_19
+  - first:
+      213: 1930546730327251378
+    second: IDLE SPRITE SHEET (M)_20
+  - first:
+      213: 8846053238060324983
+    second: IDLE SPRITE SHEET (M)_21
+  - first:
+      213: -6891866542381633968
+    second: IDLE SPRITE SHEET (M)_22
+  - first:
+      213: -4550220995088813243
+    second: IDLE SPRITE SHEET (M)_23
+  - first:
+      213: 5239695416069874319
+    second: IDLE SPRITE SHEET (M)_24
+  - first:
+      213: 2997931071672714801
+    second: IDLE SPRITE SHEET (M)_25
+  - first:
+      213: -3571337306707985312
+    second: IDLE SPRITE SHEET (M)_26
+  - first:
+      213: -5173282129375573199
+    second: IDLE SPRITE SHEET (M)_27
+  - first:
+      213: -7133199245201808394
+    second: IDLE SPRITE SHEET (M)_28
+  - first:
+      213: 2554967556898454062
+    second: IDLE SPRITE SHEET (M)_29
+  - first:
+      213: -9142101093242816085
+    second: IDLE SPRITE SHEET (M)_30
+  - first:
+      213: -3847128639508342876
+    second: IDLE SPRITE SHEET (M)_31
+  - first:
+      213: 3229642979120399364
+    second: IDLE SPRITE SHEET (M)_32
+  - first:
+      213: -1699787309494265248
+    second: IDLE SPRITE SHEET (M)_33
+  - first:
+      213: -5666676300711697621
+    second: IDLE SPRITE SHEET (M)_34
+  - first:
+      213: 5486552596233842513
+    second: IDLE SPRITE SHEET (M)_35
+  - first:
+      213: -7684942904855019362
+    second: IDLE SPRITE SHEET (M)_36
+  - first:
+      213: -7010748115383696438
+    second: IDLE SPRITE SHEET (M)_37
+  - first:
+      213: -1506146630543330817
+    second: IDLE SPRITE SHEET (M)_38
+  - first:
+      213: 5551972006967379110
+    second: IDLE SPRITE SHEET (M)_39
+  - first:
+      213: -7439442861960764725
+    second: IDLE SPRITE SHEET (M)_40
+  - first:
+      213: -5234501715427873285
+    second: IDLE SPRITE SHEET (M)_41
+  - first:
+      213: -4389433256439378381
+    second: IDLE SPRITE SHEET (M)_42
+  - first:
+      213: 8811990275433512258
+    second: IDLE SPRITE SHEET (M)_43
+  - first:
+      213: 7715639736270081531
+    second: IDLE SPRITE SHEET (M)_44
+  - first:
+      213: 1048490800011326443
+    second: IDLE SPRITE SHEET (M)_45
+  - first:
+      213: 2867318282268290628
+    second: IDLE SPRITE SHEET (M)_46
+  - first:
+      213: -8370055688639401767
+    second: IDLE SPRITE SHEET (M)_47
+  - first:
+      213: 3567294892031815919
+    second: IDLE SPRITE SHEET (M)_48
+  - first:
+      213: 4524400893992993432
+    second: IDLE SPRITE SHEET (M)_49
+  - first:
+      213: -8233210111927010415
+    second: IDLE SPRITE SHEET (M)_50
+  - first:
+      213: -6503289850986613941
+    second: IDLE SPRITE SHEET (M)_51
+  - first:
+      213: -3957423139883362569
+    second: IDLE SPRITE SHEET (M)_52
+  - first:
+      213: -7016514292415619061
+    second: IDLE SPRITE SHEET (M)_53
+  - first:
+      213: -4962952791706255590
+    second: IDLE SPRITE SHEET (M)_54
+  - first:
+      213: -6899639841726378523
+    second: IDLE SPRITE SHEET (M)_55
+  - first:
+      213: -4702202866129630554
+    second: IDLE SPRITE SHEET (M)_56
+  - first:
+      213: -8229997705726253557
+    second: IDLE SPRITE SHEET (M)_57
+  - first:
+      213: 9076493711657418922
+    second: IDLE SPRITE SHEET (M)_58
+  - first:
+      213: 3858261320763722502
+    second: IDLE SPRITE SHEET (M)_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bb622bb25ca5f60800000000000000
+      internalID: 8023942477577108277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_1
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b91f48879d03cbb0800000000000000
+      internalID: -4917071423680341577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_2
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03118a2dede1a0700800000000000000
+      internalID: 507251850398404912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_3
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac894e7ed1650e90800000000000000
+      internalID: -7060129232604001110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_4
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241af5aa5787535f0800000000000000
+      internalID: -777582913886641854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_5
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5f94a44338dd590800000000000000
+      internalID: -7647812331597335066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_6
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a769539b878d760800000000000000
+      internalID: 7482863517739416125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_7
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34a5412493a3e560800000000000000
+      internalID: 7341891674152739899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_8
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcada6d6cf6a8ce0800000000000000
+      internalID: -1402185434176574285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_9
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a7360163e15590800000000000000
+      internalID: -7687113083089082786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_10
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944321f111397e3a0800000000000000
+      internalID: -6636173824162122679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_11
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 3276.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422241b5609bed000800000000000000
+      internalID: 62690881778754084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0bcba9c4e0ef40800000000000000
+      internalID: 5755851878601264400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_13
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee4ce5f29c193c0800000000000000
+      internalID: -4354478159399948790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_14
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb8e42abd0c7bda0800000000000000
+      internalID: -5929058334856541197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_15
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e3936543f403840800000000000000
+      internalID: 5201744655816408624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_16
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7f579ad44b53170800000000000000
+      internalID: 8157624545700083622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_17
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2987f86a65fb830a0800000000000000
+      internalID: -6901556050062772078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_18
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e11c70f88507160800000000000000
+      internalID: 7021209190404267564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_19
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1ac35ef90abfda0800000000000000
+      internalID: -5909953477387443742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_20
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99273d50eaaca10800000000000000
+      internalID: 1930546730327251378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_21
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77897c63d8e73ca70800000000000000
+      internalID: 8846053238060324983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_22
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e61f5f4eb2b50a0800000000000000
+      internalID: -6891866542381633968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_23
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 2457.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543f432fc1e5ad0c0800000000000000
+      internalID: -4550220995088813243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826616483327b840800000000000000
+      internalID: 5239695416069874319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136882c0d6aca9920800000000000000
+      internalID: 2997931071672714801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_26
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf19c24af007ec0800000000000000
+      internalID: -3571337306707985312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_27
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b41b3005fc438b0800000000000000
+      internalID: -5173282129375573199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_28
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f369ad6419c10d90800000000000000
+      internalID: -7133199245201808394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_29
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a7499c471157320800000000000000
+      internalID: 2554967556898454062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_30
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba93d8c1e7bb02180800000000000000
+      internalID: -9142101093242816085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_31
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79fd4a2e04c9ac0800000000000000
+      internalID: -3847128639508342876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_32
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4044ec99d2ff1dc20800000000000000
+      internalID: 3229642979120399364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_33
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a90e7a2742968e0800000000000000
+      internalID: -1699787309494265248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_34
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2364f68debeb51b0800000000000000
+      internalID: -5666676300711697621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_35
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 1638.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fe30c6486242c40800000000000000
+      internalID: 5486552596233842513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9045f40529995590800000000000000
+      internalID: -7684942904855019362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_37
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3c0dccbb1d4be90800000000000000
+      internalID: -7010748115383696438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_38
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff130d29e97191be0800000000000000
+      internalID: -1506146630543330817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_39
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4043eef119c0d40800000000000000
+      internalID: 5551972006967379110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_40
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc26306022ac1c890800000000000000
+      internalID: -7439442861960764725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_41
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdafb36c605b57b0800000000000000
+      internalID: -5234501715427873285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_42
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e05a0a5b99513c0800000000000000
+      internalID: -4389433256439378381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_43
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d3963b77a7a4a70800000000000000
+      internalID: 8811990275433512258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_44
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd444ff575731b60800000000000000
+      internalID: 7715639736270081531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_45
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3b0f4d3dcfc8e00800000000000000
+      internalID: 1048490800011326443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_46
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ea59839c2cac720800000000000000
+      internalID: 2867318282268290628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_47
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 819.8
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0396892b697db80800000000000000
+      internalID: -8370055688639401767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe03f90ddc3918130800000000000000
+      internalID: 3567294892031815919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_49
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89289eb44a6e9ce30800000000000000
+      internalID: 4524400893992993432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_50
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bbf6d4603cdbd80800000000000000
+      internalID: -8233210111927010415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_51
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b433a80265cafb5a0800000000000000
+      internalID: -6503289850986613941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_52
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f657512f986419c0800000000000000
+      internalID: -3957423139883362569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_53
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00ad171d6550ae90800000000000000
+      internalID: -7016514292415619061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_54
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fb0551bbc002bb0800000000000000
+      internalID: -4962952791706255590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_55
+      rect:
+        serializedVersion: 2
+        x: 5733
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed44cbae1e8f30a0800000000000000
+      internalID: -6899639841726378523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_56
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0586186b6ebeb0800000000000000
+      internalID: -4702202866129630554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_57
+      rect:
+        serializedVersion: 2
+        x: 7371
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0628e7e0bc29cd80800000000000000
+      internalID: -8229997705726253557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_58
+      rect:
+        serializedVersion: 2
+        x: 8190
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0486101fe26fd70800000000000000
+      internalID: 9076493711657418922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDLE SPRITE SHEET (M)_59
+      rect:
+        serializedVersion: 2
+        x: 9009
+        y: 0.7999878
+        width: 819.1667
+        height: 819.2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b40c2ba3c4b8530800000000000000
+      internalID: 3858261320763722502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

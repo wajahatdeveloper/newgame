@@ -56,16 +56,18 @@ public class HatController : MonoBehaviour {
 			targetPosition = transform.position + (Vector3.left * moveSpeed);
 			GetComponent<Rigidbody2D>().MovePosition( targetPosition );
 		}
-
-		if (Input.GetKey( KeyCode.RightArrow ))
+		else if (Input.GetKey( KeyCode.RightArrow ))
 		{
 			animator.Play( "Walking" );
 			spriteRenderer.flipX = false;
 			targetPosition = transform.position + (Vector3.right * moveSpeed);
 			GetComponent<Rigidbody2D>().MovePosition( targetPosition );
 		}
-
-		if (Input.GetKeyUp(KeyCode.LeftArrow))
+		else
+		{
+			animator.Play( "Idle" );
+		}
+		/*if (Input.GetKeyUp(KeyCode.LeftArrow))
 		{
 			animator.Play( "Idle" );
 		}
@@ -73,7 +75,7 @@ public class HatController : MonoBehaviour {
 		if (Input.GetKeyUp( KeyCode.RightArrow ))
 		{
 			animator.Play( "Idle" );
-		}
+		}*/
 	}
 
 	public void toggledControl (bool toggle) {
