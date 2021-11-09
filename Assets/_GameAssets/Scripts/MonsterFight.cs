@@ -26,7 +26,7 @@ public class MonsterFight : MonoBehaviour
 		_view.monsterFightPanel.SetActive( true );
 		_view.heroIconImage.sprite = _view.heroView.spriteRenderer.sprite;
 		monsterHp = 100;
-		_model.heroHp = 100;
+		_model.heroHp = 100 * (int)(_model.heroTier * 1.5f);
 		heroAnimator.Play( heroAnimatorStateIdle );
 		heroAnimator.speed = 2;
 		_UpdateUI();

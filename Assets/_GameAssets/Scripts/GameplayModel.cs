@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class GameplayModel : MonoBehaviour
 {
+	public class GetPlayerNFTs
+	{
+		public List<string> heroes { get; set; }
+	}
+
+	public static string currentNftCharId;
+	public static NFTData currentNftChar;
+
 	public enum TileType
 	{
 		MonsterFight,
@@ -15,6 +23,8 @@ public class GameplayModel : MonoBehaviour
 		Minigame3,
 	}
 
+	public int heroLevel = 1;
+	public int heroTier = 1;
 	public int heroHp = 100;
 	public int rollLimit = 10;
 	public int rollCount = 0;

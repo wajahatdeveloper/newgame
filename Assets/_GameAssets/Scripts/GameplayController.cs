@@ -18,6 +18,10 @@ public class GameplayController : MonoBehaviour
 
 	public void GameStart()
 	{
+		if (GameplayModel.currentNftChar.isFirstEdition)
+		{
+			_model.rollLimit += _model.heroTier;
+		}
 		_model.heroHp = 100;
 		InitializeRandomBoardData();
 		SeedBoardWithRandomData();

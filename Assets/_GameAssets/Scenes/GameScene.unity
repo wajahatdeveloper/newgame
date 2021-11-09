@@ -603,6 +603,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7519840775639531302, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a538ff0ade27a554189d75a591d50ef1, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
 --- !u!224 &55274141 stripped
@@ -3304,6 +3308,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7519840775639531302, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 88d0d56aef8c34845a89a5bd1c169f27, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
 --- !u!224 &270677302 stripped
@@ -3650,7 +3658,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &341256083
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5139,8 +5147,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 790109ea826af5c4f8471113cbfe9eac, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -7901,17 +7909,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1.6488571, y: 21.568779, z: 1}
   m_Center: {x: -20.633667, y: 1.9790154, z: 0}
---- !u!114 &884506740 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-  m_PrefabInstance: {fileID: 9045808717445857974}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 01f6e249f1e7c4046bc2a4fae9b2c4be, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!95 &884506741 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 5081823303053938731, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
@@ -10451,6 +10448,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7519840775639531302, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 976864521acc1f841b1fee2bbf0cf97a, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
 --- !u!224 &1169256371 stripped
@@ -10578,6 +10579,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19a503ef32c92e64e80251b91756ce62, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  heroLevel: 1
+  heroTier: 1
   heroHp: 100
   rollLimit: 10
   rollCount: 0
@@ -12936,6 +12939,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7519840775639531302, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: f2f688d60360c004397fdd5f913490d3, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
 --- !u!224 &1575020399 stripped
@@ -14218,6 +14225,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7519840775639531302, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 28fb0859a792de44bbdb40d871dfc1dc, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
 --- !u!224 &1694346711 stripped
@@ -17257,13 +17268,13 @@ MonoBehaviour:
   heroAttack2Button: {fileID: 860274639}
   heroAttack3Button: {fileID: 265391609}
   heroAttack4Button: {fileID: 1529610972}
-  tileIconMoveBack: {fileID: 21300000, guid: 098f6a0f62e030e47903ac479f2a46a7, type: 3}
-  tileIconWin: {fileID: 21300000, guid: 243562a8f9522e54498f4e389c146b83, type: 3}
+  tileIconMoveBack: {fileID: 21300000, guid: 8f76d354c5384354b93177223b713596, type: 3}
+  tileIconWin: {fileID: 21300000, guid: 403f2fac1d8baff48942809564e07dae, type: 3}
   tileIconLose: {fileID: 21300000, guid: 098f6a0f62e030e47903ac479f2a46a7, type: 3}
   tileIconMonsterFight: {fileID: 21300000, guid: 99c4a78fabb597848b8ed3fc306d3496, type: 3}
-  tileIconMinigame1: {fileID: 21300000, guid: e97258273d0b86840b379db619f2d8dd, type: 3}
-  tileIconMinigame2: {fileID: 21300000, guid: e97258273d0b86840b379db619f2d8dd, type: 3}
-  tileIconMinigame3: {fileID: 21300000, guid: e97258273d0b86840b379db619f2d8dd, type: 3}
+  tileIconMinigame1: {fileID: 21300000, guid: 35a4f7715bf7c5e4fb79bbb16500def2, type: 3}
+  tileIconMinigame2: {fileID: 21300000, guid: 35a4f7715bf7c5e4fb79bbb16500def2, type: 3}
+  tileIconMinigame3: {fileID: 21300000, guid: 35a4f7715bf7c5e4fb79bbb16500def2, type: 3}
 --- !u!1 &2136066273
 GameObject:
   m_ObjectHideFlags: 0
@@ -17856,6 +17867,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7519840775639531302, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 9ebd6ee6261b45d4cbe8f3cdea15afb4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f86dd3af23bd9f94da7d02d9fe0c506f, type: 3}
 --- !u!224 &8261259308490039552
@@ -18020,10 +18035,6 @@ PrefabInstance:
     m_TransformParent: {fileID: 571623165}
     m_Modifications:
     - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: externalAnimators.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
       propertyPath: externalAnimators.Array.data[0]
       value: 
       objectReference: {fileID: 57248534}
@@ -18031,38 +18042,6 @@ PrefabInstance:
       propertyPath: externalAnimators.Array.data[1]
       value: 
       objectReference: {fileID: 188774270}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: onAnimatorChange.m_PersistentCalls.m_Calls.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: onAnimatorChange.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: onAnimatorChange.m_PersistentCalls.m_Calls.Array.data[0].m_Target
-      value: 
-      objectReference: {fileID: 884506740}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: onAnimatorChange.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: onAnimatorChange.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ChangeAnimator
-      objectReference: {fileID: 0}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: onAnimatorChange.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
-      value: HeroSkin, NFTBoardGame
-      objectReference: {fileID: 0}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: onAnimatorChange.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgument
-      value: 
-      objectReference: {fileID: 57248534}
-    - target: {fileID: 4973855687213530234, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
-      propertyPath: onAnimatorChange.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.Animator, UnityEngine
-      objectReference: {fileID: 0}
     - target: {fileID: 9045808718756285546, guid: ec42dbfdc63f79a4a8810f6787761248, type: 3}
       propertyPath: m_Name
       value: Hero
