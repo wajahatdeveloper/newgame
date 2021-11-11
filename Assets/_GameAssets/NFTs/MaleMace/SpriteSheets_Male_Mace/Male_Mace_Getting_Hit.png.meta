@@ -1,0 +1,912 @@
+fileFormatVersion: 2
+guid: b0697f3da2db19d40b41d688a4fb02a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8477858753124354745
+    second: getting hit(M)_0
+  - first:
+      213: -5545557108020845423
+    second: getting hit(M)_1
+  - first:
+      213: 9185628137136993705
+    second: getting hit(M)_2
+  - first:
+      213: 5040114437487013427
+    second: getting hit(M)_3
+  - first:
+      213: 296522131225558967
+    second: getting hit(M)_4
+  - first:
+      213: -6417616844663466720
+    second: getting hit(M)_5
+  - first:
+      213: 6074123051315663829
+    second: getting hit(M)_6
+  - first:
+      213: 5254545362229880189
+    second: getting hit(M)_7
+  - first:
+      213: 8359556114145051901
+    second: getting hit(M)_8
+  - first:
+      213: 2101579270038808460
+    second: getting hit(M)_9
+  - first:
+      213: -7678994433608350558
+    second: getting hit(M)_10
+  - first:
+      213: -7870659449386920875
+    second: getting hit(M)_11
+  - first:
+      213: -7068574909195061192
+    second: getting hit(M)_12
+  - first:
+      213: -5583150666793468725
+    second: getting hit(M)_13
+  - first:
+      213: -1067650645172517636
+    second: getting hit(M)_14
+  - first:
+      213: -6821260524512856449
+    second: getting hit(M)_15
+  - first:
+      213: -115382664087887372
+    second: getting hit(M)_16
+  - first:
+      213: 9005631629398334459
+    second: getting hit(M)_17
+  - first:
+      213: 3505647665189204973
+    second: getting hit(M)_18
+  - first:
+      213: -1106707600683123913
+    second: getting hit(M)_19
+  - first:
+      213: 3498581791431006133
+    second: getting hit(M)_20
+  - first:
+      213: -6869460372754544127
+    second: getting hit(M)_21
+  - first:
+      213: -466845193556736991
+    second: getting hit(M)_22
+  - first:
+      213: -1965631417861404489
+    second: getting hit(M)_23
+  - first:
+      213: -3666750426016259640
+    second: getting hit(M)_24
+  - first:
+      213: 7430791475284443287
+    second: getting hit(M)_25
+  - first:
+      213: -926130871915182064
+    second: getting hit(M)_26
+  - first:
+      213: -8286031522664805375
+    second: getting hit(M)_27
+  - first:
+      213: -3298414337004209446
+    second: getting hit(M)_28
+  - first:
+      213: -6207144145963995118
+    second: getting hit(M)_29
+  - first:
+      213: 3118903585876271271
+    second: getting hit(M)_30
+  - first:
+      213: -5538493456221792141
+    second: getting hit(M)_31
+  - first:
+      213: 5538237780252242767
+    second: getting hit(M)_32
+  - first:
+      213: 4163463078191786060
+    second: getting hit(M)_33
+  - first:
+      213: 6113879600506815669
+    second: getting hit(M)_34
+  - first:
+      213: -8940098454898281115
+    second: getting hit(M)_35
+  - first:
+      213: -585875186335816867
+    second: getting hit(M)_36
+  - first:
+      213: -3305718580358622500
+    second: getting hit(M)_37
+  - first:
+      213: 5252998978030110011
+    second: getting hit(M)_38
+  - first:
+      213: 6424786474665829176
+    second: getting hit(M)_39
+  - first:
+      213: -1901575294240654262
+    second: getting hit(M)_40
+  - first:
+      213: 7267639906931713091
+    second: getting hit(M)_41
+  - first:
+      213: -9140001120251067703
+    second: getting hit(M)_42
+  - first:
+      213: -4647503533681580935
+    second: getting hit(M)_43
+  - first:
+      213: -4479285600126839880
+    second: getting hit(M)_44
+  - first:
+      213: -5843206838460117373
+    second: getting hit(M)_45
+  - first:
+      213: 6655037685770791848
+    second: getting hit(M)_46
+  - first:
+      213: -3526063815423290119
+    second: getting hit(M)_47
+  - first:
+      213: 1561997523527349724
+    second: getting hit(M)_48
+  - first:
+      213: 2627938748028403209
+    second: getting hit(M)_49
+  - first:
+      213: 2774418479128699662
+    second: getting hit(M)_50
+  - first:
+      213: 8049436031268234109
+    second: getting hit(M)_51
+  - first:
+      213: -5349897400530962486
+    second: getting hit(M)_52
+  - first:
+      213: 6867270959469698749
+    second: getting hit(M)_53
+  - first:
+      213: 442847442140723227
+    second: getting hit(M)_54
+  - first:
+      213: 5905475454074125376
+    second: getting hit(M)_55
+  - first:
+      213: -4755856245064329549
+    second: getting hit(M)_56
+  - first:
+      213: -9207870339041993255
+    second: getting hit(M)_57
+  - first:
+      213: -7133570322793901630
+    second: getting hit(M)_58
+  - first:
+      213: 718540291094126386
+    second: getting hit(M)_59
+  - first:
+      213: 8065819585999934444
+    second: Male_Mace_Getting_Hit_0
+  - first:
+      213: 2266164866535506520
+    second: Male_Mace_Getting_Hit_1
+  - first:
+      213: -7958933708635383563
+    second: Male_Mace_Getting_Hit_2
+  - first:
+      213: 8046156986403819652
+    second: Male_Mace_Getting_Hit_3
+  - first:
+      213: -411426447575049697
+    second: Male_Mace_Getting_Hit_4
+  - first:
+      213: 7500712433575884872
+    second: Male_Mace_Getting_Hit_5
+  - first:
+      213: -744205827372939227
+    second: Male_Mace_Getting_Hit_6
+  - first:
+      213: 7142588722229811454
+    second: Male_Mace_Getting_Hit_7
+  - first:
+      213: 7265407665056687957
+    second: Male_Mace_Getting_Hit_8
+  - first:
+      213: 99636752323799651
+    second: Male_Mace_Getting_Hit_9
+  - first:
+      213: 5465916317378859479
+    second: Male_Mace_Getting_Hit_10
+  - first:
+      213: -2729378166268767462
+    second: Male_Mace_Getting_Hit_11
+  - first:
+      213: 8819781364150782096
+    second: Male_Mace_Getting_Hit_12
+  - first:
+      213: 2971853660084411427
+    second: Male_Mace_Getting_Hit_13
+  - first:
+      213: -5003508726187223410
+    second: Male_Mace_Getting_Hit_14
+  - first:
+      213: 1283789866625090198
+    second: Male_Mace_Getting_Hit_15
+  - first:
+      213: 2431769429846636892
+    second: Male_Mace_Getting_Hit_16
+  - first:
+      213: 3710983995774461823
+    second: Male_Mace_Getting_Hit_17
+  - first:
+      213: 4600430007806786936
+    second: Male_Mace_Getting_Hit_18
+  - first:
+      213: 4211668324328302967
+    second: Male_Mace_Getting_Hit_19
+  - first:
+      213: -8219376351646595710
+    second: Male_Mace_Getting_Hit_20
+  - first:
+      213: -8670999805890292787
+    second: Male_Mace_Getting_Hit_21
+  - first:
+      213: 4495380636366973456
+    second: Male_Mace_Getting_Hit_22
+  - first:
+      213: 6224564919592286440
+    second: Male_Mace_Getting_Hit_23
+  - first:
+      213: -4172181044258207715
+    second: Male_Mace_Getting_Hit_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce31aedcd2c8fef60800000000000000
+      internalID: 8065819585999934444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c15080f8037f10800000000000000
+      internalID: 2266164866535506520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8d7e1d5ff2c8190800000000000000
+      internalID: -7958933708635383563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48090a51621b9af60800000000000000
+      internalID: 8046156986403819652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a961563d15a4af0800000000000000
+      internalID: -411426447575049697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84875a5c732e71860800000000000000
+      internalID: 7500712433575884872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52809a33ebc0ca5f0800000000000000
+      internalID: -744205827372939227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8183d89929f1360800000000000000
+      internalID: 7142588722229811454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557aa1017c9e3d460800000000000000
+      internalID: 7265407665056687957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_9
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a65dc291bf16100800000000000000
+      internalID: 99636752323799651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1d0655ee5dadb40800000000000000
+      internalID: 5465916317378859479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d7d5c40d4f1ad0800000000000000
+      internalID: -2729378166268767462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09841d6eb68266a70800000000000000
+      internalID: 8819781364150782096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c96c588252e3920800000000000000
+      internalID: 2971853660084411427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e861b01c257ff8ab0800000000000000
+      internalID: -5003508726187223410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6924f66f410f0d110800000000000000
+      internalID: 1283789866625090198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59b9a199616fb120800000000000000
+      internalID: 2431769429846636892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77eb435840108330800000000000000
+      internalID: 3710983995774461823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87dfe5dc7b208df30800000000000000
+      internalID: 4600430007806786936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7796a5fc60ad27a30800000000000000
+      internalID: 4211668324328302967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285cbdc91c8eeed80800000000000000
+      internalID: -8219376351646595710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc39d621e9b6aa780800000000000000
+      internalID: -8670999805890292787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa2d80fdcc26e30800000000000000
+      internalID: 4495380636366973456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8f7a1b0d8126650800000000000000
+      internalID: 6224564919592286440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Getting_Hit_24
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d180f56027f6916c0800000000000000
+      internalID: -4172181044258207715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

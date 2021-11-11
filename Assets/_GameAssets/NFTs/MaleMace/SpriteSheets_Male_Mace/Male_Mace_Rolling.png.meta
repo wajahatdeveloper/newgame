@@ -1,0 +1,939 @@
+fileFormatVersion: 2
+guid: 497becfc96fbdf643833383bf216a200
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7121624300027571693
+    second: rolling sprite sheet(M)_0
+  - first:
+      213: -5416075170951656757
+    second: rolling sprite sheet(M)_1
+  - first:
+      213: -2513040001362735219
+    second: rolling sprite sheet(M)_2
+  - first:
+      213: 3466194211419140192
+    second: rolling sprite sheet(M)_3
+  - first:
+      213: 6395572758719366734
+    second: rolling sprite sheet(M)_4
+  - first:
+      213: 8891030091397038400
+    second: rolling sprite sheet(M)_5
+  - first:
+      213: 6147498821302021317
+    second: rolling sprite sheet(M)_6
+  - first:
+      213: -2183172744558335837
+    second: rolling sprite sheet(M)_7
+  - first:
+      213: -4341692402289050349
+    second: rolling sprite sheet(M)_8
+  - first:
+      213: 8389927241134747878
+    second: rolling sprite sheet(M)_9
+  - first:
+      213: 6463799916703957046
+    second: rolling sprite sheet(M)_10
+  - first:
+      213: -3175177442146178112
+    second: rolling sprite sheet(M)_11
+  - first:
+      213: -7865050693235606311
+    second: rolling sprite sheet(M)_12
+  - first:
+      213: -6891758578680205970
+    second: rolling sprite sheet(M)_13
+  - first:
+      213: 6984036406090552990
+    second: rolling sprite sheet(M)_14
+  - first:
+      213: -8189267445535902600
+    second: rolling sprite sheet(M)_15
+  - first:
+      213: 3634928103850412137
+    second: rolling sprite sheet(M)_16
+  - first:
+      213: 5603874583585956188
+    second: rolling sprite sheet(M)_17
+  - first:
+      213: -3240738502634790585
+    second: rolling sprite sheet(M)_18
+  - first:
+      213: -2525067166739148600
+    second: rolling sprite sheet(M)_19
+  - first:
+      213: 7966835162172357745
+    second: rolling sprite sheet(M)_20
+  - first:
+      213: -5572919941692985791
+    second: rolling sprite sheet(M)_21
+  - first:
+      213: 1251011784936237083
+    second: rolling sprite sheet(M)_22
+  - first:
+      213: -8210739425365372421
+    second: rolling sprite sheet(M)_23
+  - first:
+      213: 3445577410783412118
+    second: rolling sprite sheet(M)_24
+  - first:
+      213: 6006189384590609524
+    second: rolling sprite sheet(M)_25
+  - first:
+      213: -8408246221292641677
+    second: rolling sprite sheet(M)_26
+  - first:
+      213: -1755850191731199426
+    second: rolling sprite sheet(M)_27
+  - first:
+      213: -7694612442874838124
+    second: rolling sprite sheet(M)_28
+  - first:
+      213: -6886068133003745516
+    second: rolling sprite sheet(M)_29
+  - first:
+      213: -4221897526397304505
+    second: rolling sprite sheet(M)_30
+  - first:
+      213: -1783444539131846002
+    second: rolling sprite sheet(M)_31
+  - first:
+      213: 7153915660863676674
+    second: rolling sprite sheet(M)_32
+  - first:
+      213: 5802708732681639207
+    second: rolling sprite sheet(M)_33
+  - first:
+      213: -417808417905277116
+    second: rolling sprite sheet(M)_34
+  - first:
+      213: -813882783178740830
+    second: rolling sprite sheet(M)_35
+  - first:
+      213: -5728969765801893362
+    second: rolling sprite sheet(M)_36
+  - first:
+      213: -3672408506994905812
+    second: rolling sprite sheet(M)_37
+  - first:
+      213: -4990514708991391111
+    second: rolling sprite sheet(M)_38
+  - first:
+      213: 2525987989597784016
+    second: rolling sprite sheet(M)_39
+  - first:
+      213: -3998210330388384084
+    second: rolling sprite sheet(M)_40
+  - first:
+      213: 1935901668029449523
+    second: rolling sprite sheet(M)_41
+  - first:
+      213: -5318828198908439165
+    second: rolling sprite sheet(M)_42
+  - first:
+      213: -2329248081395176911
+    second: rolling sprite sheet(M)_43
+  - first:
+      213: -8902073529361968544
+    second: rolling sprite sheet(M)_44
+  - first:
+      213: 4637177144911822929
+    second: rolling sprite sheet(M)_45
+  - first:
+      213: -4907614119774448559
+    second: rolling sprite sheet(M)_46
+  - first:
+      213: -883740455274950765
+    second: rolling sprite sheet(M)_47
+  - first:
+      213: 270896736959769233
+    second: rolling sprite sheet(M)_48
+  - first:
+      213: 8539327098257246515
+    second: rolling sprite sheet(M)_49
+  - first:
+      213: 7962864295351719090
+    second: rolling sprite sheet(M)_50
+  - first:
+      213: 4927494434798503273
+    second: rolling sprite sheet(M)_51
+  - first:
+      213: -786043886073716159
+    second: rolling sprite sheet(M)_52
+  - first:
+      213: 1646656542114951687
+    second: rolling sprite sheet(M)_53
+  - first:
+      213: -5912203949213926695
+    second: rolling sprite sheet(M)_54
+  - first:
+      213: -8070621442844357299
+    second: rolling sprite sheet(M)_55
+  - first:
+      213: -8457994280570948650
+    second: rolling sprite sheet(M)_56
+  - first:
+      213: 7150465409175044967
+    second: rolling sprite sheet(M)_57
+  - first:
+      213: 7382079583911080767
+    second: rolling sprite sheet(M)_58
+  - first:
+      213: -8091850822802531592
+    second: rolling sprite sheet(M)_59
+  - first:
+      213: 7575357304250427205
+    second: rolling sprite sheet(M)_60
+  - first:
+      213: -8308515193881524853
+    second: rolling sprite sheet(M)_61
+  - first:
+      213: 4312197639219037525
+    second: rolling sprite sheet(M)_62
+  - first:
+      213: -851091135052475548
+    second: rolling sprite sheet(M)_63
+  - first:
+      213: 5805507558955321770
+    second: rolling sprite sheet(M)_64
+  - first:
+      213: 437329764604738623
+    second: rolling sprite sheet(M)_65
+  - first:
+      213: -1097349400628410287
+    second: rolling sprite sheet(M)_66
+  - first:
+      213: 2905638819443799992
+    second: rolling sprite sheet(M)_67
+  - first:
+      213: -248384414588646192
+    second: rolling sprite sheet(M)_68
+  - first:
+      213: 1886559435638854682
+    second: Male_Mace_Rolling_0
+  - first:
+      213: -6072676407486956766
+    second: Male_Mace_Rolling_1
+  - first:
+      213: 248582082546526709
+    second: Male_Mace_Rolling_2
+  - first:
+      213: -8798636941072819790
+    second: Male_Mace_Rolling_3
+  - first:
+      213: 6022734650158820154
+    second: Male_Mace_Rolling_4
+  - first:
+      213: -3519249993782727213
+    second: Male_Mace_Rolling_5
+  - first:
+      213: 7893600982867555226
+    second: Male_Mace_Rolling_6
+  - first:
+      213: 7967985924070672464
+    second: Male_Mace_Rolling_7
+  - first:
+      213: -3424064342535050697
+    second: Male_Mace_Rolling_8
+  - first:
+      213: 1967771982083787143
+    second: Male_Mace_Rolling_9
+  - first:
+      213: -7359559404896106550
+    second: Male_Mace_Rolling_10
+  - first:
+      213: -2263977952140527804
+    second: Male_Mace_Rolling_11
+  - first:
+      213: -4040568292842926218
+    second: Male_Mace_Rolling_12
+  - first:
+      213: -6876387235063066826
+    second: Male_Mace_Rolling_13
+  - first:
+      213: -28026292152522297
+    second: Male_Mace_Rolling_14
+  - first:
+      213: -1107392763639861505
+    second: Male_Mace_Rolling_15
+  - first:
+      213: 5661372114121861178
+    second: Male_Mace_Rolling_16
+  - first:
+      213: -167364752699076030
+    second: Male_Mace_Rolling_17
+  - first:
+      213: 2587140727085683029
+    second: Male_Mace_Rolling_18
+  - first:
+      213: -4778637156897216443
+    second: Male_Mace_Rolling_19
+  - first:
+      213: 2224890239990282150
+    second: Male_Mace_Rolling_20
+  - first:
+      213: -1554393939295095728
+    second: Male_Mace_Rolling_21
+  - first:
+      213: 1339371205671151131
+    second: Male_Mace_Rolling_22
+  - first:
+      213: 667692027292361234
+    second: Male_Mace_Rolling_23
+  - first:
+      213: -8305792754479166174
+    second: Male_Mace_Rolling_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145ae0bfc76e2a10800000000000000
+      internalID: 1886559435638854682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b38d75bf489bba0800000000000000
+      internalID: -6072676407486956766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f966b74614237300800000000000000
+      internalID: 248582082546526709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b999bbb156f4e580800000000000000
+      internalID: -8798636941072819790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b2727214d059350800000000000000
+      internalID: 6022734650158820154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dde8c4c6cc192fc0800000000000000
+      internalID: -3519249993782727213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93be769544bb8d60800000000000000
+      internalID: 7893600982867555226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0588b835bf8f39e60800000000000000
+      internalID: 7967985924070672464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aed173f974b70d0800000000000000
+      internalID: -3424064342535050697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_9
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7890217213eee4b10800000000000000
+      internalID: 1967771982083787143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac748cfb6b79dd990800000000000000
+      internalID: -7359559404896106550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447f85f2c0cb490e0800000000000000
+      internalID: -2263977952140527804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f0466ab840de7c0800000000000000
+      internalID: -4040568292842926218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f090c0e3a2290a0800000000000000
+      internalID: -6876387235063066826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9a0eb5c3e6c9ff0800000000000000
+      internalID: -28026292152522297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe68601620c1a0f0800000000000000
+      internalID: -1107392763639861505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38298b41fb319e40800000000000000
+      internalID: 5661372114121861178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2425377e4a66dadf0800000000000000
+      internalID: -167364752699076030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55153e5b8ce57e320800000000000000
+      internalID: 2587140727085683029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548a8a8f2dedeadb0800000000000000
+      internalID: -4778637156897216443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7bad2a2e560ee10800000000000000
+      internalID: 2224890239990282150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054bb4f92fead6ae0800000000000000
+      internalID: -1554393939295095728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b166a68e307669210800000000000000
+      internalID: 1339371205671151131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2122f1a7c5e144900800000000000000
+      internalID: 667692027292361234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Rolling_24
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d814bee75ebbc80800000000000000
+      internalID: -8305792754479166174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,909 @@
+fileFormatVersion: 2
+guid: 204ddd2305de1cd459b9cdbdc6c40cde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7559601778364870673
+    second: death sprite sheet_0
+  - first:
+      213: -2789544816098574282
+    second: death sprite sheet_1
+  - first:
+      213: -4754895050527229669
+    second: death sprite sheet_2
+  - first:
+      213: 2489168137577681746
+    second: death sprite sheet_3
+  - first:
+      213: 5055413521902899440
+    second: death sprite sheet_4
+  - first:
+      213: -3546415942499327206
+    second: death sprite sheet_5
+  - first:
+      213: -2048488951029814777
+    second: death sprite sheet_6
+  - first:
+      213: 3464356077610766272
+    second: death sprite sheet_7
+  - first:
+      213: -8520195788399817476
+    second: death sprite sheet_8
+  - first:
+      213: 8427920297767918955
+    second: death sprite sheet_9
+  - first:
+      213: -4907694289269666981
+    second: death sprite sheet_10
+  - first:
+      213: 8848166412898336400
+    second: death sprite sheet_11
+  - first:
+      213: 2452241128408374184
+    second: death sprite sheet_12
+  - first:
+      213: 2817159694914779481
+    second: death sprite sheet_13
+  - first:
+      213: -305643669798515499
+    second: death sprite sheet_14
+  - first:
+      213: 6558304076294043607
+    second: death sprite sheet_15
+  - first:
+      213: -788605778686160414
+    second: death sprite sheet_16
+  - first:
+      213: 1360138011466908984
+    second: death sprite sheet_17
+  - first:
+      213: -43966899011636059
+    second: death sprite sheet_18
+  - first:
+      213: 3031078525420115901
+    second: death sprite sheet_19
+  - first:
+      213: -8230516450754784432
+    second: death sprite sheet_20
+  - first:
+      213: 1107476718390114320
+    second: death sprite sheet_21
+  - first:
+      213: -483424280306587448
+    second: death sprite sheet_22
+  - first:
+      213: -3603948157738347312
+    second: death sprite sheet_23
+  - first:
+      213: -6268120747175160123
+    second: death sprite sheet_24
+  - first:
+      213: -5297401308435843323
+    second: death sprite sheet_25
+  - first:
+      213: 547610562648447799
+    second: death sprite sheet_26
+  - first:
+      213: -7335229136832156594
+    second: death sprite sheet_27
+  - first:
+      213: -7850766867668607268
+    second: death sprite sheet_28
+  - first:
+      213: 5832006919795987774
+    second: death sprite sheet_29
+  - first:
+      213: 6364447198643449371
+    second: death sprite sheet_30
+  - first:
+      213: 755979449628017569
+    second: death sprite sheet_31
+  - first:
+      213: -1724062324098417181
+    second: death sprite sheet_32
+  - first:
+      213: 7980338262095266565
+    second: death sprite sheet_33
+  - first:
+      213: -3890058390687613952
+    second: death sprite sheet_34
+  - first:
+      213: 434262524307617039
+    second: death sprite sheet_35
+  - first:
+      213: -4479384829572371986
+    second: death sprite sheet_36
+  - first:
+      213: 5038900982482967684
+    second: death sprite sheet_37
+  - first:
+      213: -7677981489845532000
+    second: death sprite sheet_38
+  - first:
+      213: -1228614105981621519
+    second: death sprite sheet_39
+  - first:
+      213: 7069350241416264368
+    second: death sprite sheet_40
+  - first:
+      213: -3135742450731282447
+    second: death sprite sheet_41
+  - first:
+      213: -3475300319680545485
+    second: death sprite sheet_42
+  - first:
+      213: 4315697444197172563
+    second: death sprite sheet_43
+  - first:
+      213: 4870277652960469484
+    second: death sprite sheet_44
+  - first:
+      213: 9063031173997288613
+    second: death sprite sheet_45
+  - first:
+      213: -3623272218483096414
+    second: death sprite sheet_46
+  - first:
+      213: -4925621936229737629
+    second: death sprite sheet_47
+  - first:
+      213: 4600543241297448585
+    second: death sprite sheet_48
+  - first:
+      213: -5854783668149912480
+    second: death sprite sheet_49
+  - first:
+      213: 5992225982608579656
+    second: death sprite sheet_50
+  - first:
+      213: 321790466571159356
+    second: death sprite sheet_51
+  - first:
+      213: -1128161543604232829
+    second: death sprite sheet_52
+  - first:
+      213: -3890559208491070903
+    second: death sprite sheet_53
+  - first:
+      213: -4713641648176050463
+    second: death sprite sheet_54
+  - first:
+      213: 2158181706003652316
+    second: death sprite sheet_55
+  - first:
+      213: -1073167194731756344
+    second: death sprite sheet_56
+  - first:
+      213: -362161656875829726
+    second: death sprite sheet_57
+  - first:
+      213: 5063151060676189733
+    second: death sprite sheet_58
+  - first:
+      213: -468015261071936071
+    second: Male_Mace_Death_0
+  - first:
+      213: 408601512539913008
+    second: Male_Mace_Death_1
+  - first:
+      213: 1046093119250809148
+    second: Male_Mace_Death_2
+  - first:
+      213: 609117245906237345
+    second: Male_Mace_Death_3
+  - first:
+      213: -1597615831352550170
+    second: Male_Mace_Death_4
+  - first:
+      213: 490474638140006239
+    second: Male_Mace_Death_5
+  - first:
+      213: 5665346039612060475
+    second: Male_Mace_Death_6
+  - first:
+      213: 5616208539757263966
+    second: Male_Mace_Death_7
+  - first:
+      213: -5194241850327389161
+    second: Male_Mace_Death_8
+  - first:
+      213: 5579247884830880681
+    second: Male_Mace_Death_9
+  - first:
+      213: 6614493298150747978
+    second: Male_Mace_Death_10
+  - first:
+      213: -5159473760153792034
+    second: Male_Mace_Death_11
+  - first:
+      213: 8864334740459961887
+    second: Male_Mace_Death_12
+  - first:
+      213: 716094915586407075
+    second: Male_Mace_Death_13
+  - first:
+      213: 3435663960943653403
+    second: Male_Mace_Death_14
+  - first:
+      213: 4795426906343288883
+    second: Male_Mace_Death_15
+  - first:
+      213: 6038340883285769134
+    second: Male_Mace_Death_16
+  - first:
+      213: 8027993949301719563
+    second: Male_Mace_Death_17
+  - first:
+      213: 3056655287258827202
+    second: Male_Mace_Death_18
+  - first:
+      213: -8502685412363804232
+    second: Male_Mace_Death_19
+  - first:
+      213: 4485859023965134313
+    second: Male_Mace_Death_20
+  - first:
+      213: -8790113500946086173
+    second: Male_Mace_Death_21
+  - first:
+      213: 7638614338866131136
+    second: Male_Mace_Death_22
+  - first:
+      213: -8162518162796504398
+    second: Male_Mace_Death_23
+  - first:
+      213: -3021321734923405337
+    second: Male_Mace_Death_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 38
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_Mace_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5785689964189f0800000000000000
+      internalID: -468015261071936071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf0a929e4aba500800000000000000
+      internalID: 408601512539913008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31cce64628748e00800000000000000
+      internalID: 1046093119250809148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a73ecc68e4047800800000000000000
+      internalID: 609117245906237345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd0bcadd024d9e0800000000000000
+      internalID: -1597615831352550170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f5ca1b5148ec600800000000000000
+      internalID: 490474638140006239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b333ebce43a5f9e40800000000000000
+      internalID: 5665346039612060475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c3fb439e7c0fd40800000000000000
+      internalID: 5616208539757263966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ca4c1be885ae7b0800000000000000
+      internalID: -5194241850327389161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_9
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a3b13124687d6d40800000000000000
+      internalID: 5579247884830880681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f2a7d0c966bcb50800000000000000
+      internalID: 6614493298150747978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1951283fdd568b0800000000000000
+      internalID: -5159473760153792034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e354f2b71740b70800000000000000
+      internalID: 8864334740459961887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_13
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aabdfc188410f900800000000000000
+      internalID: 716094915586407075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_14
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1278a76b2eedaf20800000000000000
+      internalID: 3435663960943653403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33031f23d57cc8240800000000000000
+      internalID: 4795426906343288883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab77f47a0f7cc350800000000000000
+      internalID: 6038340883285769134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b024d1776f9296f60800000000000000
+      internalID: 8027993949301719563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_18
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9c1e5f9cb6b6a20800000000000000
+      internalID: 3056655287258827202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_19
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e827aaa4600a80800000000000000
+      internalID: -8502685412363804232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed1ce3e309f04e30800000000000000
+      internalID: 4485859023965134313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e64eb8c75e330680800000000000000
+      internalID: -8790113500946086173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_22
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c03254254fc10a60800000000000000
+      internalID: 7638614338866131136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba17d15af8e8be80800000000000000
+      internalID: -8162518162796504398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Death_24
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e739b5c3eb1216d0800000000000000
+      internalID: -3021321734923405337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

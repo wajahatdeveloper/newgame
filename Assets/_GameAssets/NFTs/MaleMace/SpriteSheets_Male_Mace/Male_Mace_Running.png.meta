@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 54a2893e0c246b5469a64733cfe4f0c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2419151024025139749
+    second: running sprite sheet_0
+  - first:
+      213: 1753391059020466155
+    second: running sprite sheet_1
+  - first:
+      213: 6978611990953910335
+    second: running sprite sheet_2
+  - first:
+      213: -3459858952408350725
+    second: running sprite sheet_3
+  - first:
+      213: -2189745728858533996
+    second: running sprite sheet_4
+  - first:
+      213: -1543150137525868104
+    second: running sprite sheet_5
+  - first:
+      213: 6880028228604493046
+    second: running sprite sheet_6
+  - first:
+      213: -6737847113884313705
+    second: running sprite sheet_7
+  - first:
+      213: -6851654500357852230
+    second: running sprite sheet_8
+  - first:
+      213: 1395752333354488735
+    second: running sprite sheet_9
+  - first:
+      213: -9064436462994307321
+    second: running sprite sheet_10
+  - first:
+      213: -1422540202327339950
+    second: running sprite sheet_11
+  - first:
+      213: -1965609931706124896
+    second: running sprite sheet_12
+  - first:
+      213: -7733516180935406662
+    second: running sprite sheet_13
+  - first:
+      213: -2636395167115737355
+    second: running sprite sheet_14
+  - first:
+      213: -6514554433829565280
+    second: running sprite sheet_15
+  - first:
+      213: 5222140113760658143
+    second: running sprite sheet_16
+  - first:
+      213: -1224452493888054681
+    second: running sprite sheet_17
+  - first:
+      213: 2864752227369464929
+    second: running sprite sheet_18
+  - first:
+      213: -1848180578103339052
+    second: running sprite sheet_19
+  - first:
+      213: -5086196659882276951
+    second: running sprite sheet_20
+  - first:
+      213: 2981138146277277090
+    second: running sprite sheet_21
+  - first:
+      213: 4825412232598336109
+    second: running sprite sheet_22
+  - first:
+      213: 35865004271720811
+    second: running sprite sheet_23
+  - first:
+      213: 449725539383342189
+    second: running sprite sheet_24
+  - first:
+      213: 4191486361743407229
+    second: running sprite sheet_25
+  - first:
+      213: -5374042750443704377
+    second: running sprite sheet_26
+  - first:
+      213: 1869292849570110701
+    second: running sprite sheet_27
+  - first:
+      213: 43750940246602017
+    second: running sprite sheet_28
+  - first:
+      213: 6930339202753404453
+    second: running sprite sheet_29
+  - first:
+      213: 245925385814042678
+    second: running sprite sheet_30
+  - first:
+      213: 1919957574952618095
+    second: running sprite sheet_31
+  - first:
+      213: 3394969022503211113
+    second: running sprite sheet_32
+  - first:
+      213: -3777356970158845315
+    second: running sprite sheet_33
+  - first:
+      213: -3588719729112351152
+    second: running sprite sheet_34
+  - first:
+      213: -2088731240475315509
+    second: running sprite sheet_35
+  - first:
+      213: 398035856219961139
+    second: running sprite sheet_36
+  - first:
+      213: 3856785591883816122
+    second: running sprite sheet_37
+  - first:
+      213: -40603975118456728
+    second: running sprite sheet_38
+  - first:
+      213: -613782830483474883
+    second: running sprite sheet_39
+  - first:
+      213: -3651992937998063342
+    second: Male_Mace_Running_0
+  - first:
+      213: -12410665176294916
+    second: Male_Mace_Running_1
+  - first:
+      213: 1135458265994692464
+    second: Male_Mace_Running_2
+  - first:
+      213: -4520717980458057591
+    second: Male_Mace_Running_3
+  - first:
+      213: -4807958343345509344
+    second: Male_Mace_Running_4
+  - first:
+      213: -3272518069764089760
+    second: Male_Mace_Running_5
+  - first:
+      213: -2322325010965295690
+    second: Male_Mace_Running_6
+  - first:
+      213: 511634630784180232
+    second: Male_Mace_Running_7
+  - first:
+      213: -6653872230855502558
+    second: Male_Mace_Running_8
+  - first:
+      213: -2985674654962227335
+    second: Male_Mace_Running_9
+  - first:
+      213: -2511540084894352128
+    second: Male_Mace_Running_10
+  - first:
+      213: -6847599497348404358
+    second: Male_Mace_Running_11
+  - first:
+      213: 4770684182877020774
+    second: Male_Mace_Running_12
+  - first:
+      213: -3097274382233974488
+    second: Male_Mace_Running_13
+  - first:
+      213: 712820202355457543
+    second: Male_Mace_Running_14
+  - first:
+      213: -6950940672123663288
+    second: Male_Mace_Running_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 45
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Male_Mace_Running_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219e360a5c3815dc0800000000000000
+      internalID: -3651992937998063342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf99db6d098e3dff0800000000000000
+      internalID: -12410665176294916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07705e9e645f1cf00800000000000000
+      internalID: 1135458265994692464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9808315d2fe2341c0800000000000000
+      internalID: -4520717980458057591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce3024c53b64db0800000000000000
+      internalID: -4807958343345509344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0681aa2772ea592d0800000000000000
+      internalID: -3272518069764089760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd886ce4b175cfd0800000000000000
+      internalID: -2322325010965295690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_7
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800eda66cf0b91700800000000000000
+      internalID: 511634630784180232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2259503b572b8a3a0800000000000000
+      internalID: -6653872230855502558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977e61858b0c096d0800000000000000
+      internalID: -2985674654962227335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00db7b87997352dd0800000000000000
+      internalID: -2511540084894352128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba76c898078f0a0800000000000000
+      internalID: -6847599497348404358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662a5f7fcffd43240800000000000000
+      internalID: 4770684182877020774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_13
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829c6030c554405d0800000000000000
+      internalID: -3097274382233974488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_14
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7e16823274e900800000000000000
+      internalID: 712820202355457543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Male_Mace_Running_15
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c014f494c498f90800000000000000
+      internalID: -6950940672123663288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
